@@ -1,3 +1,7 @@
+#adding config files to ignore api keys in public repo 
+config.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
