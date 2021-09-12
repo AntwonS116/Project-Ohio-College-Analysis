@@ -1,0 +1,1621 @@
+,Year,State and County,Poverty Percentage,Median Household Income
+0,2019,United States,12.3,65712
+1,2018,United States,13.1,61937
+2,2017,United States,13.4,60336
+3,2016,United States,14.0,57617
+4,2015,United States,14.7,55775
+5,2014,United States,15.5,53657
+6,2013,United States,15.8,52250
+7,2012,United States,15.9,51371
+8,2011,United States,15.9,50502
+9,2010,United States,15.3,50046
+10,2009,United States,14.3,50221
+11,2008,United States,13.2,52029
+12,2007,United States,13.0,50740
+13,2006,United States,13.3,48451
+14,2005,United States,13.3,46242
+15,2004,United States,12.7,44334
+16,2003,United States,12.5,43318
+17,2002,United States,12.1,42409
+18,2019,Ohio,13.0,58704
+19,2018,Ohio,13.8,56155
+20,2017,Ohio,13.9,54077
+21,2016,Ohio,14.5,52357
+22,2015,Ohio,14.8,51086
+23,2014,Ohio,15.8,49349
+24,2013,Ohio,15.9,48138
+25,2012,Ohio,16.2,46873
+26,2011,Ohio,16.3,45803
+27,2010,Ohio,15.8,45151
+28,2009,Ohio,15.1,45467
+29,2008,Ohio,13.3,48011
+30,2007,Ohio,13.1,46645
+31,2006,Ohio,13.2,44609
+32,2005,Ohio,13.0,43547
+33,2004,Ohio,11.7,43371
+34,2003,Ohio,10.7,43119
+35,2002,Ohio,10.2,42246
+36,2019,Adams County ,19.1,43145
+37,2018,Adams County ,19.7,42154
+38,2017,Adams County ,18.6,41644
+39,2016,Adams County ,20.2,38302
+40,2015,Adams County ,21.3,36609
+41,2014,Adams County ,24.8,34116
+42,2013,Adams County ,24.1,37259
+43,2012,Adams County ,22.1,34955
+44,2011,Adams County ,22.5,34778
+45,2010,Adams County ,22.8,33549
+46,2009,Adams County ,21.4,34044
+47,2008,Adams County ,21.9,34564
+48,2007,Adams County ,19.6,36062
+49,2006,Adams County ,19.9,32146
+50,2005,Adams County ,20.5,32279
+51,2004,Adams County ,16.1,31364
+52,2003,Adams County ,14.8,30487
+53,2002,Adams County ,15.8,29588
+54,2019,Allen County ,12.9,58271
+55,2018,Allen County ,14.4,50301
+56,2017,Allen County ,15.2,51325
+57,2016,Allen County ,15.5,47924
+58,2015,Allen County ,15.5,49297
+59,2014,Allen County ,18.0,43602
+60,2013,Allen County ,16.1,43274
+61,2012,Allen County ,20.1,42173
+62,2011,Allen County ,19.2,41453
+63,2010,Allen County ,18.7,41196
+64,2009,Allen County ,18.8,39318
+65,2008,Allen County ,14.7,44360
+66,2007,Allen County ,14.5,43840
+67,2006,Allen County ,12.8,43156
+68,2005,Allen County ,13.4,41270
+69,2004,Allen County ,12.2,39134
+70,2003,Allen County ,11.3,39069
+71,2002,Allen County ,10.8,37621
+72,2019,Ashland County ,12.6,52554
+73,2018,Ashland County ,10.4,54362
+74,2017,Ashland County ,11.4,51103
+75,2016,Ashland County ,12.2,50612
+76,2015,Ashland County ,14.1,48338
+77,2014,Ashland County ,14.6,47369
+78,2013,Ashland County ,12.9,48196
+79,2012,Ashland County ,15.2,44748
+80,2011,Ashland County ,13.1,44950
+81,2010,Ashland County ,15.6,41734
+82,2009,Ashland County ,16.7,43794
+83,2008,Ashland County ,12.0,43151
+84,2007,Ashland County ,10.0,46805
+85,2006,Ashland County ,11.6,45527
+86,2005,Ashland County ,12.7,41460
+87,2004,Ashland County ,9.7,41074
+88,2003,Ashland County ,9.0,39953
+89,2002,Ashland County ,8.6,39306
+90,2019,Ashtabula County ,18.7,47388
+91,2018,Ashtabula County ,17.4,46950
+92,2017,Ashtabula County ,19.3,45157
+93,2016,Ashtabula County ,18.2,43668
+94,2015,Ashtabula County ,18.6,44258
+95,2014,Ashtabula County ,21.5,39757
+96,2013,Ashtabula County ,18.9,40899
+97,2012,Ashtabula County ,20.3,37811
+98,2011,Ashtabula County ,20.3,38683
+99,2010,Ashtabula County ,16.1,38762
+100,2009,Ashtabula County ,17.5,39501
+101,2008,Ashtabula County ,15.6,41899
+102,2007,Ashtabula County ,15.5,40107
+103,2006,Ashtabula County ,15.9,38834
+104,2005,Ashtabula County ,15.3,37515
+105,2004,Ashtabula County ,12.7,37729
+106,2003,Ashtabula County ,12.0,36034
+107,2002,Ashtabula County ,12.1,35054
+108,2019,Athens County ,26.6,43621
+109,2018,Athens County ,30.7,40416
+110,2017,Athens County ,28.8,42955
+111,2016,Athens County ,28.8,38131
+112,2015,Athens County ,31.5,38400
+113,2014,Athens County ,29.9,34216
+114,2013,Athens County ,31.0,35783
+115,2012,Athens County ,33.3,33950
+116,2011,Athens County ,35.0,33943
+117,2010,Athens County ,24.8,35557
+118,2009,Athens County ,34.7,30823
+119,2008,Athens County ,29.6,35301
+120,2007,Athens County ,29.4,33556
+121,2006,Athens County ,27.6,30436
+122,2005,Athens County ,31.5,29614
+123,2004,Athens County ,20.2,29785
+124,2003,Athens County ,18.5,29230
+125,2002,Athens County ,20.1,28344
+126,2019,Auglaize County ,7.3,64227
+127,2018,Auglaize County ,6.9,63754
+128,2017,Auglaize County ,8.7,63336
+129,2016,Auglaize County ,9.2,59543
+130,2015,Auglaize County ,8.7,58840
+131,2014,Auglaize County ,8.3,52650
+132,2013,Auglaize County ,9.7,54010
+133,2012,Auglaize County ,9.7,51769
+134,2011,Auglaize County ,9.9,51130
+135,2010,Auglaize County ,9.4,50103
+136,2009,Auglaize County ,8.5,48797
+137,2008,Auglaize County ,7.8,52152
+138,2007,Auglaize County ,7.2,51308
+139,2006,Auglaize County ,8.1,49067
+140,2005,Auglaize County ,7.1,48568
+141,2004,Auglaize County ,7.0,46070
+142,2003,Auglaize County ,6.7,44763
+143,2002,Auglaize County ,6.5,43744
+144,2019,Belmont County ,11.6,50166
+145,2018,Belmont County ,13.0,48989
+146,2017,Belmont County ,11.1,52221
+147,2016,Belmont County ,15.7,45661
+148,2015,Belmont County ,14.6,45675
+149,2014,Belmont County ,16.1,41983
+150,2013,Belmont County ,16.8,39264
+151,2012,Belmont County ,16.3,42176
+152,2011,Belmont County ,15.7,40300
+153,2010,Belmont County ,16.3,37913
+154,2009,Belmont County ,16.8,37473
+155,2008,Belmont County ,16.1,37941
+156,2007,Belmont County ,15.3,35780
+157,2006,Belmont County ,16.0,35561
+158,2005,Belmont County ,16.1,34044
+159,2004,Belmont County ,14.8,32910
+160,2003,Belmont County ,14.3,31559
+161,2002,Belmont County ,14.6,30473
+162,2019,Brown County ,12.1,58441
+163,2018,Brown County ,11.8,55334
+164,2017,Brown County ,16.9,48207
+165,2016,Brown County ,16.7,51504
+166,2015,Brown County ,14.9,47202
+167,2014,Brown County ,15.0,46484
+168,2013,Brown County ,17.8,43050
+169,2012,Brown County ,16.8,44209
+170,2011,Brown County ,15.6,43181
+171,2010,Brown County ,13.0,41892
+172,2009,Brown County ,13.0,44796
+173,2008,Brown County ,13.2,44912
+174,2007,Brown County ,13.6,43642
+175,2006,Brown County ,13.8,43071
+176,2005,Brown County ,14.1,39978
+177,2004,Brown County ,11.9,41165
+178,2003,Brown County ,10.5,40096
+179,2002,Brown County ,10.3,38614
+180,2019,Butler County ,11.7,68611
+181,2018,Butler County ,12.4,61053
+182,2017,Butler County ,10.7,64026
+183,2016,Butler County ,12.4,63094
+184,2015,Butler County ,14.4,58954
+185,2014,Butler County ,14.4,58558
+186,2013,Butler County ,13.3,55992
+187,2012,Butler County ,14.0,55599
+188,2011,Butler County ,13.9,53275
+189,2010,Butler County ,13.5,54359
+190,2009,Butler County ,13.2,53543
+191,2008,Butler County ,11.9,52856
+192,2007,Butler County ,11.9,53335
+193,2006,Butler County ,11.3,53310
+194,2005,Butler County ,11.8,50615
+195,2004,Butler County ,9.8,49856
+196,2003,Butler County ,8.9,47954
+197,2002,Butler County ,8.1,47582
+198,2019,Carroll County ,11.3,56999
+199,2018,Carroll County ,12.9,50002
+200,2017,Carroll County ,13.0,51296
+201,2016,Carroll County ,12.8,48616
+202,2015,Carroll County ,13.0,52166
+203,2014,Carroll County ,13.5,46177
+204,2013,Carroll County ,15.5,44622
+205,2012,Carroll County ,14.8,42540
+206,2011,Carroll County ,16.4,40896
+207,2010,Carroll County ,16.6,39414
+208,2009,Carroll County ,13.5,40277
+209,2008,Carroll County ,12.5,43889
+210,2007,Carroll County ,11.5,43371
+211,2006,Carroll County ,13.9,39034
+212,2005,Carroll County ,12.6,37948
+213,2004,Carroll County ,10.9,37052
+214,2003,Carroll County ,10.7,36270
+215,2002,Carroll County ,10.3,36100
+216,2019,Champaign County ,7.7,62077
+217,2018,Champaign County ,10.0,57701
+218,2017,Champaign County ,11.0,54335
+219,2016,Champaign County ,11.1,56203
+220,2015,Champaign County ,10.8,58837
+221,2014,Champaign County ,11.3,50302
+222,2013,Champaign County ,12.0,48516
+223,2012,Champaign County ,13.2,48826
+224,2011,Champaign County ,14.0,48063
+225,2010,Champaign County ,13.1,46577
+226,2009,Champaign County ,10.2,49500
+227,2008,Champaign County ,11.8,47225
+228,2007,Champaign County ,11.0,47384
+229,2006,Champaign County ,11.1,43866
+230,2005,Champaign County ,9.1,47604
+231,2004,Champaign County ,8.9,44642
+232,2003,Champaign County ,8.2,44351
+233,2002,Champaign County ,8.0,43320
+234,2019,Clark County ,14.6,50832
+235,2018,Clark County ,14.9,50089
+236,2017,Clark County ,15.4,47654
+237,2016,Clark County ,15.7,47410
+238,2015,Clark County ,15.1,47651
+239,2014,Clark County ,18.2,42029
+240,2013,Clark County ,18.2,44029
+241,2012,Clark County ,19.9,40783
+242,2011,Clark County ,19.1,41704
+243,2010,Clark County ,20.0,40524
+244,2009,Clark County ,16.3,42458
+245,2008,Clark County ,13.8,45480
+246,2007,Clark County ,15.5,43407
+247,2006,Clark County ,14.2,42806
+248,2005,Clark County ,15.0,40612
+249,2004,Clark County ,12.8,40776
+250,2003,Clark County ,11.3,40027
+251,2002,Clark County ,11.2,39323
+252,2019,Clermont County ,8.2,68724
+253,2018,Clermont County ,8.2,65280
+254,2017,Clermont County ,8.7,66193
+255,2016,Clermont County ,10.6,61203
+256,2015,Clermont County ,9.5,62214
+257,2014,Clermont County ,11.2,62158
+258,2013,Clermont County ,9.7,61398
+259,2012,Clermont County ,11.5,54179
+260,2011,Clermont County ,10.9,55963
+261,2010,Clermont County ,9.6,56628
+262,2009,Clermont County ,10.4,57877
+263,2008,Clermont County ,8.8,60735
+264,2007,Clermont County ,9.0,54037
+265,2006,Clermont County ,9.1,52914
+266,2005,Clermont County ,8.4,51456
+267,2004,Clermont County ,7.8,52951
+268,2003,Clermont County ,6.9,51940
+269,2002,Clermont County ,6.8,50761
+270,2019,Clinton County,14.8,52870
+271,2018,Clinton County,11.8,53947
+272,2017,Clinton County,13.0,50794
+273,2016,Clinton County,13.4,53234
+274,2015,Clinton County,13.6,47055
+275,2014,Clinton County,13.7,49453
+276,2013,Clinton County,17.3,46541
+277,2012,Clinton County,15.5,42640
+278,2011,Clinton County,15.7,44905
+279,2010,Clinton County,15.7,44324
+280,2009,Clinton County,11.9,49453
+281,2008,Clinton County,10.9,49440
+282,2007,Clinton County,13.0,47577
+283,2006,Clinton County,11.8,44921
+284,2005,Clinton County,10.9,44018
+285,2004,Clinton County,9.8,41826
+286,2003,Clinton County,8.9,41650
+287,2002,Clinton County,8.7,40626
+288,2019,Columbiana County ,13.2,52693
+289,2018,Columbiana County ,15.1,44938
+290,2017,Columbiana County ,15.1,43123
+291,2016,Columbiana County ,17.2,46873
+292,2015,Columbiana County ,14.7,42301
+293,2014,Columbiana County ,15.9,42645
+294,2013,Columbiana County ,17.8,41996
+295,2012,Columbiana County ,15.9,42782
+296,2011,Columbiana County ,17.1,42091
+297,2010,Columbiana County ,17.7,36985
+298,2009,Columbiana County ,16.4,38004
+299,2008,Columbiana County ,14.5,40700
+300,2007,Columbiana County ,15.1,39580
+301,2006,Columbiana County ,16.2,37776
+302,2005,Columbiana County ,15.3,36949
+303,2004,Columbiana County ,12.2,35644
+304,2003,Columbiana County ,11.5,34732
+305,2002,Columbiana County ,12.4,34267
+306,2019,Coshocton County ,12.5,49679
+307,2018,Coshocton County ,15.4,46420
+308,2017,Coshocton County ,15.7,44471
+309,2016,Coshocton County ,12.7,45777
+310,2015,Coshocton County ,15.1,41643
+311,2014,Coshocton County ,18.1,41547
+312,2013,Coshocton County ,14.4,39496
+313,2012,Coshocton County ,15.4,42035
+314,2011,Coshocton County ,17.0,40282
+315,2010,Coshocton County ,20.4,37227
+316,2009,Coshocton County ,14.6,38887
+317,2008,Coshocton County ,13.2,41451
+318,2007,Coshocton County ,12.8,38111
+319,2006,Coshocton County ,14.5,37717
+320,2005,Coshocton County ,12.4,37046
+321,2004,Coshocton County ,11.3,36267
+322,2003,Coshocton County ,10.2,35268
+323,2002,Coshocton County ,10.3,34935
+324,2019,Crawford County ,14.7,49484
+325,2018,Crawford County ,14.0,44715
+326,2017,Crawford County ,15.5,45395
+327,2016,Crawford County ,13.9,44336
+328,2015,Crawford County ,16.5,41471
+329,2014,Crawford County ,15.4,39881
+330,2013,Crawford County ,18.2,38421
+331,2012,Crawford County ,16.5,40493
+332,2011,Crawford County ,17.3,39679
+333,2010,Crawford County ,16.5,39467
+334,2009,Crawford County ,14.9,38110
+335,2008,Crawford County ,12.6,42146
+336,2007,Crawford County ,12.8,40022
+337,2006,Crawford County ,12.4,39864
+338,2005,Crawford County ,11.2,39871
+339,2004,Crawford County ,11.4,38023
+340,2003,Crawford County ,10.4,37307
+341,2002,Crawford County ,9.9,36210
+342,2019,Cuyahoga County ,16.2,52503
+343,2018,Cuyahoga County ,17.9,50006
+344,2017,Cuyahoga County ,18.1,46918
+345,2016,Cuyahoga County ,18.3,46703
+346,2015,Cuyahoga County ,18.2,45506
+347,2014,Cuyahoga County ,19.6,44138
+348,2013,Cuyahoga County ,19.2,43653
+349,2012,Cuyahoga County ,18.8,41954
+350,2011,Cuyahoga County ,18.8,41609
+351,2010,Cuyahoga County ,18.2,41407
+352,2009,Cuyahoga County ,18.9,40254
+353,2008,Cuyahoga County ,15.9,44324
+354,2007,Cuyahoga County ,15.7,44400
+355,2006,Cuyahoga County ,15.1,41581
+356,2005,Cuyahoga County ,17.1,39908
+357,2004,Cuyahoga County ,15.0,40547
+358,2003,Cuyahoga County ,13.6,39551
+359,2002,Cuyahoga County ,12.7,39040
+360,2019,Darke County ,12.1,56824
+361,2018,Darke County ,9.5,53853
+362,2017,Darke County ,9.2,53954
+363,2016,Darke County ,10.7,52771
+364,2015,Darke County ,9.6,51131
+365,2014,Darke County ,12.2,46610
+366,2013,Darke County ,14.6,43465
+367,2012,Darke County ,12.6,44554
+368,2011,Darke County ,12.9,42065
+369,2010,Darke County ,12.1,42023
+370,2009,Darke County ,11.9,40879
+371,2008,Darke County ,9.8,44662
+372,2007,Darke County ,9.1,46556
+373,2006,Darke County ,9.6,42606
+374,2005,Darke County ,8.6,42706
+375,2004,Darke County ,8.3,41468
+376,2003,Darke County ,7.9,40934
+377,2002,Darke County ,7.5,40042
+378,2019,Defiance County ,8.8,60918
+379,2018,Defiance County ,9.1,56740
+380,2017,Defiance County ,9.5,59538
+381,2016,Defiance County ,10.4,52210
+382,2015,Defiance County ,10.2,53936
+383,2014,Defiance County ,11.7,53026
+384,2013,Defiance County ,11.4,48971
+385,2012,Defiance County ,15.1,46382
+386,2011,Defiance County ,11.7,49360
+387,2010,Defiance County ,11.5,45792
+388,2009,Defiance County ,11.9,45229
+389,2008,Defiance County ,9.8,49614
+390,2007,Defiance County ,9.5,47553
+391,2006,Defiance County ,8.7,47254
+392,2005,Defiance County ,8.4,46851
+393,2004,Defiance County ,7.9,46151
+394,2003,Defiance County ,7.2,45434
+395,2002,Defiance County ,6.9,44596
+396,2019,Delaware County ,4.8,110252
+397,2018,Delaware County ,4.1,103536
+398,2017,Delaware County ,4.8,107676
+399,2016,Delaware County ,4.7,102990
+400,2015,Delaware County ,4.4,97679
+401,2014,Delaware County ,4.8,97802
+402,2013,Delaware County ,5.6,89016
+403,2012,Delaware County ,5.0,87470
+404,2011,Delaware County ,4.5,86980
+405,2010,Delaware County ,5.8,85628
+406,2009,Delaware County ,5.1,84762
+407,2008,Delaware County ,4.9,88645
+408,2007,Delaware County ,4.5,81309
+409,2006,Delaware County ,4.2,79650
+410,2005,Delaware County ,4.5,76214
+411,2004,Delaware County ,5.0,75098
+412,2003,Delaware County ,4.6,73375
+413,2002,Delaware County ,4.2,73620
+414,2019,Erie County ,11.6,60790
+415,2018,Erie County ,10.6,53135
+416,2017,Erie County ,12.4,54849
+417,2016,Erie County ,12.5,51354
+418,2015,Erie County ,12.7,48129
+419,2014,Erie County ,13.9,49234
+420,2013,Erie County ,15.0,46495
+421,2012,Erie County ,12.2,46307
+422,2011,Erie County ,12.8,46613
+423,2010,Erie County ,14.9,43935
+424,2009,Erie County ,14.6,44499
+425,2008,Erie County ,12.0,47093
+426,2007,Erie County ,11.1,48689
+427,2006,Erie County ,10.5,46335
+428,2005,Erie County ,11.6,43681
+429,2004,Erie County ,9.6,44515
+430,2003,Erie County ,9.0,43716
+431,2002,Erie County ,9.1,42340
+432,2019,Fairfield County ,8.1,71782
+433,2018,Fairfield County ,9.3,67654
+434,2017,Fairfield County ,9.0,67276
+435,2016,Fairfield County ,9.7,65198
+436,2015,Fairfield County ,9.1,61450
+437,2014,Fairfield County ,9.6,59921
+438,2013,Fairfield County ,11.8,56697
+439,2012,Fairfield County ,10.7,58884
+440,2011,Fairfield County ,11.3,58829
+441,2010,Fairfield County ,11.2,55805
+442,2009,Fairfield County ,11.8,52290
+443,2008,Fairfield County ,8.9,58019
+444,2007,Fairfield County ,8.9,58287
+445,2006,Fairfield County ,7.9,55033
+446,2005,Fairfield County ,7.7,51631
+447,2004,Fairfield County ,7.7,52088
+448,2003,Fairfield County ,6.8,51300
+449,2002,Fairfield County ,6.7,50096
+450,2019,Fayette County ,13.6,51023
+451,2018,Fayette County ,15.1,47733
+452,2017,Fayette County ,15.6,46067
+453,2016,Fayette County ,16.0,44257
+454,2015,Fayette County ,16.3,45068
+455,2014,Fayette County ,15.8,44947
+456,2013,Fayette County ,17.9,40031
+457,2012,Fayette County ,17.7,42100
+458,2011,Fayette County ,18.0,36684
+459,2010,Fayette County ,16.2,40250
+460,2009,Fayette County ,20.3,37614
+461,2008,Fayette County ,13.1,44703
+462,2007,Fayette County ,13.6,41992
+463,2006,Fayette County ,13.1,39280
+464,2005,Fayette County ,13.4,40928
+465,2004,Fayette County ,12.0,39690
+466,2003,Fayette County ,10.6,39126
+467,2002,Fayette County ,10.7,37609
+468,2019,Franklin County,13.5,64648
+469,2018,Franklin County,15.5,60383
+470,2017,Franklin County,16.0,59214
+471,2016,Franklin County,16.6,56090
+472,2015,Franklin County,17.1,53939
+473,2014,Franklin County,17.3,53164
+474,2013,Franklin County,17.7,51456
+475,2012,Franklin County,18.0,50053
+476,2011,Franklin County,18.8,47174
+477,2010,Franklin County,18.8,47621
+478,2009,Franklin County,18.4,47460
+479,2008,Franklin County,15.1,51246
+480,2007,Franklin County,16.2,48076
+481,2006,Franklin County,16.4,45886
+482,2005,Franklin County,14.7,45463
+483,2004,Franklin County,13.1,45459
+484,2003,Franklin County,12.0,44967
+485,2002,Franklin County,11.0,44199
+486,2019,Fulton County ,6.9,64334
+487,2018,Fulton County ,7.9,62800
+488,2017,Fulton County ,8.2,59214
+489,2016,Fulton County ,8.9,56504
+490,2015,Fulton County ,8.5,58782
+491,2014,Fulton County ,10.5,54666
+492,2013,Fulton County ,10.8,51454
+493,2012,Fulton County ,10.6,50658
+494,2011,Fulton County ,9.8,49038
+495,2010,Fulton County ,10.9,49909
+496,2009,Fulton County ,9.1,52426
+497,2008,Fulton County ,7.8,51772
+498,2007,Fulton County ,8.1,50356
+499,2006,Fulton County ,7.6,47078
+500,2005,Fulton County ,7.1,48838
+501,2004,Fulton County ,7.1,47958
+502,2003,Fulton County ,6.6,46402
+503,2002,Fulton County ,6.1,44869
+504,2019,Gallia County ,16.5,48094
+505,2018,Gallia County ,22.1,43785
+506,2017,Gallia County ,19.0,43149
+507,2016,Gallia County ,20.6,42074
+508,2015,Gallia County ,21.7,38738
+509,2014,Gallia County ,26.1,36675
+510,2013,Gallia County ,20.3,39447
+511,2012,Gallia County ,21.0,38397
+512,2011,Gallia County ,21.2,36441
+513,2010,Gallia County ,18.2,37923
+514,2009,Gallia County ,20.9,36575
+515,2008,Gallia County ,20.3,38997
+516,2007,Gallia County ,23.1,36050
+517,2006,Gallia County ,20.5,34448
+518,2005,Gallia County ,22.8,33074
+519,2004,Gallia County ,17.4,33156
+520,2003,Gallia County ,15.5,32233
+521,2002,Gallia County ,16.3,31178
+522,2019,Geauga County ,5.5,79865
+523,2018,Geauga County ,5.7,84093
+524,2017,Geauga County ,6.4,82744
+525,2016,Geauga County ,5.8,77938
+526,2015,Geauga County ,6.7,76315
+527,2014,Geauga County ,7.8,72264
+528,2013,Geauga County ,7.4,69078
+529,2012,Geauga County ,8.0,69214
+530,2011,Geauga County ,8.0,66088
+531,2010,Geauga County ,7.8,63172
+532,2009,Geauga County ,7.9,62407
+533,2008,Geauga County ,6.9,62223
+534,2007,Geauga County ,5.4,68185
+535,2006,Geauga County ,5.7,64170
+536,2005,Geauga County ,5.4,67891
+537,2004,Geauga County ,5.5,61254
+538,2003,Geauga County ,5.6,59235
+539,2002,Geauga County ,5.5,59425
+540,2019,Greene County ,9.9,69709
+541,2018,Greene County ,11.6,68380
+542,2017,Greene County ,9.8,68040
+543,2016,Greene County ,12.1,62751
+544,2015,Greene County ,12.7,61250
+545,2014,Greene County ,13.2,59382
+546,2013,Greene County ,12.8,60093
+547,2012,Greene County ,12.9,54038
+548,2011,Greene County ,15.6,56683
+549,2010,Greene County ,13.1,52056
+550,2009,Greene County ,12.3,55615
+551,2008,Greene County ,10.7,58153
+552,2007,Greene County ,9.2,55362
+553,2006,Greene County ,10.9,55656
+554,2005,Greene County ,9.4,55451
+555,2004,Greene County ,9.4,51173
+556,2003,Greene County ,8.2,50088
+557,2002,Greene County ,7.5,49842
+558,2019,Guernsey County ,15.5,48283
+559,2018,Guernsey County ,18.8,44623
+560,2017,Guernsey County ,18.2,43733
+561,2016,Guernsey County ,18.6,43519
+562,2015,Guernsey County ,18.6,41630
+563,2014,Guernsey County ,17.2,41940
+564,2013,Guernsey County ,22.6,39760
+565,2012,Guernsey County ,19.1,38353
+566,2011,Guernsey County ,19.4,36348
+567,2010,Guernsey County ,19.1,35654
+568,2009,Guernsey County ,20.5,34826
+569,2008,Guernsey County ,17.1,37325
+570,2007,Guernsey County ,15.5,35599
+571,2006,Guernsey County ,19.6,34411
+572,2005,Guernsey County ,17.2,33131
+573,2004,Guernsey County ,15.2,32909
+574,2003,Guernsey County ,14.0,32165
+575,2002,Guernsey County ,14.0,31166
+576,2019,Hamilton County ,14.6,60251
+577,2018,Hamilton County ,15.4,57300
+578,2017,Hamilton County ,16.2,55178
+579,2016,Hamilton County ,16.0,53344
+580,2015,Hamilton County ,16.6,51070
+581,2014,Hamilton County ,17.6,48973
+582,2013,Hamilton County ,18.7,47123
+583,2012,Hamilton County ,19.8,46952
+584,2011,Hamilton County ,18.5,46125
+585,2010,Hamilton County ,18.5,46359
+586,2009,Hamilton County ,15.2,46509
+587,2008,Hamilton County ,13.6,50285
+588,2007,Hamilton County ,13.0,48435
+589,2006,Hamilton County ,14.7,44814
+590,2005,Hamilton County ,14.0,44033
+591,2004,Hamilton County ,13.1,43811
+592,2003,Hamilton County ,11.6,44093
+593,2002,Hamilton County ,10.8,42457
+594,2019,Hancock County ,9.3,62720
+595,2018,Hancock County ,9.9,61579
+596,2017,Hancock County ,9.7,54386
+597,2016,Hancock County ,10.0,56406
+598,2015,Hancock County ,10.6,55265
+599,2014,Hancock County ,12.7,51498
+600,2013,Hancock County ,12.6,48729
+601,2012,Hancock County ,14.6,49866
+602,2011,Hancock County ,13.3,48258
+603,2010,Hancock County ,11.9,49918
+604,2009,Hancock County ,11.0,48676
+605,2008,Hancock County ,9.8,51823
+606,2007,Hancock County ,8.9,49715
+607,2006,Hancock County ,10.7,46813
+608,2005,Hancock County ,9.6,46388
+609,2004,Hancock County ,7.9,46074
+610,2003,Hancock County ,7.5,44957
+611,2002,Hancock County ,7.4,44571
+612,2019,Hardin County ,13.9,51155
+613,2018,Hardin County ,14.7,49580
+614,2017,Hardin County ,15.8,47185
+615,2016,Hardin County ,13.3,46969
+616,2015,Hardin County ,16.5,44101
+617,2014,Hardin County ,19.0,45195
+618,2013,Hardin County ,15.7,42474
+619,2012,Hardin County ,16.3,42023
+620,2011,Hardin County ,19.8,37914
+621,2010,Hardin County ,17.2,40710
+622,2009,Hardin County ,16.2,39596
+623,2008,Hardin County ,14.7,42670
+624,2007,Hardin County ,15.0,41546
+625,2006,Hardin County ,14.9,39238
+626,2005,Hardin County ,15.4,36910
+627,2004,Hardin County ,11.6,36238
+628,2003,Hardin County ,10.6,35897
+629,2002,Hardin County ,10.7,34892
+630,2019,Harrison County ,14.5,50137
+631,2018,Harrison County ,15.3,50301
+632,2017,Harrison County ,12.8,48160
+633,2016,Harrison County ,16.8,44274
+634,2015,Harrison County ,15.5,44221
+635,2014,Harrison County ,16.9,42582
+636,2013,Harrison County ,16.5,40343
+637,2012,Harrison County ,18.1,39801
+638,2011,Harrison County ,17.4,37057
+639,2010,Harrison County ,17.8,36074
+640,2009,Harrison County ,17.7,34917
+641,2008,Harrison County ,17.7,35655
+642,2007,Harrison County ,17.0,36275
+643,2006,Harrison County ,15.3,33349
+644,2005,Harrison County ,15.0,33334
+645,2004,Harrison County ,13.0,32670
+646,2003,Harrison County ,12.1,31490
+647,2002,Harrison County ,12.0,30803
+648,2019,Henry County ,7.5,61351
+649,2018,Henry County ,10.8,57705
+650,2017,Henry County ,8.2,57678
+651,2016,Henry County ,8.3,57752
+652,2015,Henry County ,9.4,56986
+653,2014,Henry County ,10.2,53645
+654,2013,Henry County ,11.2,51105
+655,2012,Henry County ,11.1,51036
+656,2011,Henry County ,10.4,48859
+657,2010,Henry County ,12.9,46136
+658,2009,Henry County ,10.8,45659
+659,2008,Henry County ,8.6,50459
+660,2007,Henry County ,8.1,49464
+661,2006,Henry County ,8.1,46324
+662,2005,Henry County ,7.1,49256
+663,2004,Henry County ,7.3,45573
+664,2003,Henry County ,6.9,44296
+665,2002,Henry County ,6.7,42961
+666,2019,Highland County ,15.6,47126
+667,2018,Highland County ,15.4,49161
+668,2017,Highland County ,16.8,43840
+669,2016,Highland County ,19.8,44729
+670,2015,Highland County ,17.9,41494
+671,2014,Highland County ,19.3,41611
+672,2013,Highland County ,21.2,40419
+673,2012,Highland County ,17.6,38847
+674,2011,Highland County ,21.5,36865
+675,2010,Highland County ,18.6,38643
+676,2009,Highland County ,16.5,39961
+677,2008,Highland County ,12.9,43895
+678,2007,Highland County ,14.1,40556
+679,2006,Highland County ,17.8,39098
+680,2005,Highland County ,12.3,38360
+681,2004,Highland County ,12.2,37597
+682,2003,Highland County ,11.4,36532
+683,2002,Highland County ,11.5,35142
+684,2019,Hocking County ,15.0,51016
+685,2018,Hocking County ,14.1,50568
+686,2017,Hocking County ,14.5,48397
+687,2016,Hocking County ,14.5,47799
+688,2015,Hocking County ,15.7,43598
+689,2014,Hocking County ,17.5,42374
+690,2013,Hocking County ,16.2,42376
+691,2012,Hocking County ,20.1,38927
+692,2011,Hocking County ,17.3,42491
+693,2010,Hocking County ,16.2,40017
+694,2009,Hocking County ,16.8,37841
+695,2008,Hocking County ,15.6,40564
+696,2007,Hocking County ,16.0,39219
+697,2006,Hocking County ,15.1,39076
+698,2005,Hocking County ,15.5,38246
+699,2004,Hocking County ,13.3,36440
+700,2003,Hocking County ,12.2,35449
+701,2002,Hocking County ,11.8,34420
+702,2019,Holmes County,9.2,62596
+703,2018,Holmes County,9.4,60828
+704,2017,Holmes County,9.0,61593
+705,2016,Holmes County,11.7,58783
+706,2015,Holmes County,10.8,53540
+707,2014,Holmes County,12.4,50069
+708,2013,Holmes County,12.4,49118
+709,2012,Holmes County,13.5,43624
+710,2011,Holmes County,15.3,45893
+711,2010,Holmes County,16.5,39917
+712,2009,Holmes County,15.0,42757
+713,2008,Holmes County,10.8,43956
+714,2007,Holmes County,10.7,43597
+715,2006,Holmes County,11.5,42639
+716,2005,Holmes County,11.5,42717
+717,2004,Holmes County,9.7,39740
+718,2003,Holmes County,9.8,38713
+719,2002,Holmes County,10.5,37744
+720,2019,Huron County,10.0,56704
+721,2018,Huron County,11.1,55202
+722,2017,Huron County,14.8,48244
+723,2016,Huron County,12.2,51278
+724,2015,Huron County,13.1,48838
+725,2014,Huron County,13.4,47824
+726,2013,Huron County,14.6,44825
+727,2012,Huron County,13.2,46303
+728,2011,Huron County,14.6,48196
+729,2010,Huron County,14.0,44632
+730,2009,Huron County,12.4,46542
+731,2008,Huron County,13.7,46586
+732,2007,Huron County,11.1,46846
+733,2006,Huron County,11.1,45155
+734,2005,Huron County,10.9,42861
+735,2004,Huron County,9.5,42230
+736,2003,Huron County,9.0,41234
+737,2002,Huron County,8.5,40678
+738,2019,Jackson County ,17.2,50671
+739,2018,Jackson County ,16.8,44726
+740,2017,Jackson County ,17.9,44671
+741,2016,Jackson County ,18.1,45168
+742,2015,Jackson County ,20.4,42828
+743,2014,Jackson County ,20.0,41161
+744,2013,Jackson County ,21.4,37823
+745,2012,Jackson County ,21.7,37020
+746,2011,Jackson County ,20.4,39144
+747,2010,Jackson County ,22.5,36791
+748,2009,Jackson County ,22.9,34307
+749,2008,Jackson County ,20.7,36888
+750,2007,Jackson County ,17.2,36833
+751,2006,Jackson County ,18.5,33825
+752,2005,Jackson County ,16.5,34391
+753,2004,Jackson County ,15.5,33312
+754,2003,Jackson County ,14.3,32024
+755,2002,Jackson County ,14.5,31337
+756,2019,Jefferson County,17.1,47652
+757,2018,Jefferson County,19.0,42821
+758,2017,Jefferson County,17.6,43520
+759,2016,Jefferson County,16.3,43558
+760,2015,Jefferson County,17.8,43306
+761,2014,Jefferson County,20.0,40148
+762,2013,Jefferson County,18.4,38074
+763,2012,Jefferson County,16.8,40114
+764,2011,Jefferson County,16.8,41103
+765,2010,Jefferson County,18.6,36800
+766,2009,Jefferson County,17.6,37057
+767,2008,Jefferson County,17.9,36738
+768,2007,Jefferson County,16.9,37930
+769,2006,Jefferson County,17.7,33330
+770,2005,Jefferson County,16.3,34387
+771,2004,Jefferson County,14.7,33691
+772,2003,Jefferson County,13.6,32493
+773,2002,Jefferson County,13.0,31531
+774,2019,Knox County,11.3,59957
+775,2018,Knox County,13.8,56885
+776,2017,Knox County,10.7,52061
+777,2016,Knox County,12.7,53375
+778,2015,Knox County,14.8,50914
+779,2014,Knox County,15.1,46908
+780,2013,Knox County,14.5,47053
+781,2012,Knox County,15.9,44133
+782,2011,Knox County,14.5,50929
+783,2010,Knox County,16.5,46937
+784,2009,Knox County,13.2,45374
+785,2008,Knox County,13.2,45745
+786,2007,Knox County,11.3,44381
+787,2006,Knox County,12.1,42752
+788,2005,Knox County,11.6,43707
+789,2004,Knox County,10.6,42157
+790,2003,Knox County,10.0,40829
+791,2002,Knox County,9.8,39327
+792,2019,Lake County,8.3,65040
+793,2018,Lake County,7.5,65883
+794,2017,Lake County,8.7,60521
+795,2016,Lake County,8.6,61946
+796,2015,Lake County,8.3,60782
+797,2014,Lake County,8.9,58697
+798,2013,Lake County,9.4,55477
+799,2012,Lake County,9.7,55149
+800,2011,Lake County,10.2,53016
+801,2010,Lake County,9.6,52854
+802,2009,Lake County,8.2,53880
+803,2008,Lake County,8.5,58228
+804,2007,Lake County,6.8,55591
+805,2006,Lake County,6.9,51601
+806,2005,Lake County,7.8,49227
+807,2004,Lake County,6.6,50227
+808,2003,Lake County,6.3,48452
+809,2002,Lake County,6.4,47964
+810,2019,Lawrence County ,16.2,46433
+811,2018,Lawrence County ,18.8,43031
+812,2017,Lawrence County ,19.5,43108
+813,2016,Lawrence County ,17.9,42132
+814,2015,Lawrence County ,21.0,39698
+815,2014,Lawrence County ,17.5,41608
+816,2013,Lawrence County ,20.6,41137
+817,2012,Lawrence County ,18.0,38790
+818,2011,Lawrence County ,18.9,37666
+819,2010,Lawrence County ,21.4,36551
+820,2009,Lawrence County ,19.6,36701
+821,2008,Lawrence County ,18.2,36289
+822,2007,Lawrence County ,21.9,32824
+823,2006,Lawrence County ,23.2,32922
+824,2005,Lawrence County ,20.3,31193
+825,2004,Lawrence County ,17.4,31131
+826,2003,Lawrence County ,16.6,30158
+827,2002,Lawrence County ,17.1,28806
+828,2019,Licking County ,9.3,66321
+829,2018,Licking County ,9.1,66145
+830,2017,Licking County ,8.9,62658
+831,2016,Licking County ,11.7,58902
+832,2015,Licking County ,12.6,59119
+833,2014,Licking County ,13.5,57308
+834,2013,Licking County ,11.2,54909
+835,2012,Licking County ,14.0,52678
+836,2011,Licking County ,13.0,54298
+837,2010,Licking County ,12.4,51247
+838,2009,Licking County ,11.7,51060
+839,2008,Licking County ,10.2,52148
+840,2007,Licking County ,11.0,53357
+841,2006,Licking County ,9.7,50426
+842,2005,Licking County ,10.2,49532
+843,2004,Licking County ,9.5,47950
+844,2003,Licking County ,8.4,46494
+845,2002,Licking County ,8.0,45498
+846,2019,Logan County,10.5,60624
+847,2018,Logan County,11.4,61699
+848,2017,Logan County,11.1,54782
+849,2016,Logan County,12.2,53760
+850,2015,Logan County,10.9,49690
+851,2014,Logan County,17.0,50753
+852,2013,Logan County,13.2,50077
+853,2012,Logan County,14.9,45397
+854,2011,Logan County,13.6,48011
+855,2010,Logan County,16.9,44436
+856,2009,Logan County,14.0,45756
+857,2008,Logan County,10.8,49622
+858,2007,Logan County,12.1,48482
+859,2006,Logan County,11.8,44951
+860,2005,Logan County,11.4,45309
+861,2004,Logan County,10.0,43620
+862,2003,Logan County,9.2,43487
+863,2002,Logan County,9.1,41826
+864,2019,Lorain County ,13.9,59201
+865,2018,Lorain County ,14.2,59265
+866,2017,Lorain County ,13.5,55443
+867,2016,Lorain County ,12.4,54951
+868,2015,Lorain County ,13.5,52779
+869,2014,Lorain County ,14.7,52331
+870,2013,Lorain County ,14.6,52762
+871,2012,Lorain County ,14.4,49758
+872,2011,Lorain County ,15.3,48733
+873,2010,Lorain County ,14.3,50092
+874,2009,Lorain County ,14.4,48439
+875,2008,Lorain County ,12.3,52878
+876,2007,Lorain County ,11.2,50832
+877,2006,Lorain County ,13.4,49001
+878,2005,Lorain County ,11.7,48007
+879,2004,Lorain County ,10.9,46286
+880,2003,Lorain County ,9.8,45051
+881,2002,Lorain County ,9.3,43818
+882,2019,Lucas County,18.0,49924
+883,2018,Lucas County,18.7,47865
+884,2017,Lucas County,17.9,47562
+885,2016,Lucas County,19.8,45251
+886,2015,Lucas County,19.5,43136
+887,2014,Lucas County,20.7,42344
+888,2013,Lucas County,21.6,40751
+889,2012,Lucas County,22.7,40759
+890,2011,Lucas County,23.3,38798
+891,2010,Lucas County,19.8,39200
+892,2009,Lucas County,18.7,40161
+893,2008,Lucas County,18.6,41291
+894,2007,Lucas County,16.9,44618
+895,2006,Lucas County,16.9,42277
+896,2005,Lucas County,17.5,40513
+897,2004,Lucas County,14.7,40277
+898,2003,Lucas County,12.9,40172
+899,2002,Lucas County,12.2,39499
+900,2019,Madison County ,9.6,65696
+901,2018,Madison County ,10.7,61645
+902,2017,Madison County ,9.6,69937
+903,2016,Madison County ,11.8,60039
+904,2015,Madison County ,9.3,63736
+905,2014,Madison County ,12.6,52996
+906,2013,Madison County ,12.2,54039
+907,2012,Madison County ,12.5,53445
+908,2011,Madison County ,11.8,54107
+909,2010,Madison County ,15.0,48295
+910,2009,Madison County ,14.2,50465
+911,2008,Madison County ,11.0,52035
+912,2007,Madison County ,10.1,52349
+913,2006,Madison County ,11.2,48497
+914,2005,Madison County ,9.7,49932
+915,2004,Madison County ,9.6,46252
+916,2003,Madison County ,8.3,44626
+917,2002,Madison County ,9.0,44199
+918,2019,Mahoning County,18.4,48018
+919,2018,Mahoning County,16.5,48010
+920,2017,Mahoning County,18.4,43904
+921,2016,Mahoning County,18.7,42839
+922,2015,Mahoning County,16.8,42443
+923,2014,Mahoning County,18.9,41316
+924,2013,Mahoning County,18.0,41076
+925,2012,Mahoning County,19.0,39982
+926,2011,Mahoning County,17.7,39447
+927,2010,Mahoning County,17.1,38205
+928,2009,Mahoning County,18.3,39339
+929,2008,Mahoning County,16.7,40508
+930,2007,Mahoning County,16.6,39141
+931,2006,Mahoning County,16.3,38609
+932,2005,Mahoning County,14.3,36648
+933,2004,Mahoning County,14.3,36784
+934,2003,Mahoning County,12.9,36413
+935,2002,Mahoning County,12.7,35516
+936,2019,Marion County,14.8,51479
+937,2018,Marion County,16.5,45419
+938,2017,Marion County,16.5,46450
+939,2016,Marion County,14.8,44783
+940,2015,Marion County,18.2,43529
+941,2014,Marion County,21.3,42240
+942,2013,Marion County,16.3,42862
+943,2012,Marion County,18.6,43315
+944,2011,Marion County,18.4,42141
+945,2010,Marion County,19.3,41314
+946,2009,Marion County,17.3,41000
+947,2008,Marion County,16.9,38104
+948,2007,Marion County,14.6,42447
+949,2006,Marion County,13.0,40684
+950,2005,Marion County,14.7,39428
+951,2004,Marion County,12.0,40033
+952,2003,Marion County,11.0,39378
+953,2002,Marion County,11.0,38060
+954,2019,Medina County ,5.5,78540
+955,2018,Medina County ,6.5,76475
+956,2017,Medina County ,6.0,72926
+957,2016,Medina County ,6.5,73148
+958,2015,Medina County ,7.0,70576
+959,2014,Medina County ,7.0,68405
+960,2013,Medina County ,6.6,66720
+961,2012,Medina County ,7.6,65670
+962,2011,Medina County ,8.9,60527
+963,2010,Medina County ,7.6,63582
+964,2009,Medina County ,6.6,65927
+965,2008,Medina County ,5.8,65621
+966,2007,Medina County ,6.7,61812
+967,2006,Medina County ,5.6,64354
+968,2005,Medina County ,5.4,61907
+969,2004,Medina County ,5.9,59457
+970,2003,Medina County ,5.4,57539
+971,2002,Medina County ,4.9,56736
+972,2019,Meigs County,15.8,43754
+973,2018,Meigs County,17.8,44286
+974,2017,Meigs County,19.9,42200
+975,2016,Meigs County,21.1,39070
+976,2015,Meigs County,22.8,38479
+977,2014,Meigs County,22.6,38081
+978,2013,Meigs County,20.6,40023
+979,2012,Meigs County,22.5,34978
+980,2011,Meigs County,22.4,33520
+981,2010,Meigs County,23.5,33194
+982,2009,Meigs County,20.0,34359
+983,2008,Meigs County,20.1,33683
+984,2007,Meigs County,19.8,33356
+985,2006,Meigs County,21.4,30979
+986,2005,Meigs County,19.9,30110
+987,2004,Meigs County,18.1,28859
+988,2003,Meigs County,16.8,27849
+989,2002,Meigs County,16.5,28015
+990,2019,Mercer County ,6.7,67075
+991,2018,Mercer County ,7.6,62782
+992,2017,Mercer County ,6.9,60055
+993,2016,Mercer County ,8.2,57577
+994,2015,Mercer County ,7.8,56124
+995,2014,Mercer County ,8.9,52606
+996,2013,Mercer County ,9.4,55110
+997,2012,Mercer County ,9.4,52060
+998,2011,Mercer County ,9.1,47994
+999,2010,Mercer County ,9.6,48521
+1000,2009,Mercer County ,9.1,50029
+1001,2008,Mercer County ,7.2,51293
+1002,2007,Mercer County ,8.4,48788
+1003,2006,Mercer County ,7.1,49739
+1004,2005,Mercer County ,7.2,46162
+1005,2004,Mercer County ,6.4,46210
+1006,2003,Mercer County ,6.7,44830
+1007,2002,Mercer County ,6.7,42974
+1008,2019,Miami County,8.8,63524
+1009,2018,Miami County,7.9,59922
+1010,2017,Miami County,9.0,60800
+1011,2016,Miami County,9.5,59591
+1012,2015,Miami County,10.7,51685
+1013,2014,Miami County,10.6,51868
+1014,2013,Miami County,10.1,51892
+1015,2012,Miami County,12.5,52622
+1016,2011,Miami County,13.9,48103
+1017,2010,Miami County,11.9,49195
+1018,2009,Miami County,11.6,49514
+1019,2008,Miami County,7.9,52735
+1020,2007,Miami County,9.0,50392
+1021,2006,Miami County,8.4,48975
+1022,2005,Miami County,8.2,46591
+1023,2004,Miami County,8.2,45869
+1024,2003,Miami County,8.1,44811
+1025,2002,Miami County,7.5,44215
+1026,2019,Monroe County,14.0,48231
+1027,2018,Monroe County,14.1,46314
+1028,2017,Monroe County,15.2,44868
+1029,2016,Monroe County,15.2,44062
+1030,2015,Monroe County,18.3,41754
+1031,2014,Monroe County,15.7,40646
+1032,2013,Monroe County,16.7,41000
+1033,2012,Monroe County,15.2,42902
+1034,2011,Monroe County,16.8,39007
+1035,2010,Monroe County,17.4,38015
+1036,2009,Monroe County,16.6,36729
+1037,2008,Monroe County,15.0,40089
+1038,2007,Monroe County,15.9,35762
+1039,2006,Monroe County,15.1,32450
+1040,2005,Monroe County,18.3,30238
+1041,2004,Monroe County,12.4,34169
+1042,2003,Monroe County,11.7,33436
+1043,2002,Monroe County,13.2,31834
+1044,2019,Montgomery County,15.3,54704
+1045,2018,Montgomery County,16.9,51071
+1046,2017,Montgomery County,15.9,48039
+1047,2016,Montgomery County,18.2,47239
+1048,2015,Montgomery County,17.7,46696
+1049,2014,Montgomery County,19.7,42994
+1050,2013,Montgomery County,18.8,43103
+1051,2012,Montgomery County,18.6,42859
+1052,2011,Montgomery County,18.3,41001
+1053,2010,Montgomery County,18.0,40885
+1054,2009,Montgomery County,16.2,41611
+1055,2008,Montgomery County,15.0,45237
+1056,2007,Montgomery County,14.8,44131
+1057,2006,Montgomery County,15.0,41450
+1058,2005,Montgomery County,14.7,41249
+1059,2004,Montgomery County,12.5,41846
+1060,2003,Montgomery County,11.2,41283
+1061,2002,Montgomery County,10.7,40560
+1062,2019,Morgan County,15.7,46883
+1063,2018,Morgan County,17.0,40557
+1064,2017,Morgan County,20.5,41375
+1065,2016,Morgan County,18.7,40680
+1066,2015,Morgan County,19.0,39969
+1067,2014,Morgan County,18.1,37923
+1068,2013,Morgan County,22.8,36057
+1069,2012,Morgan County,18.6,35748
+1070,2011,Morgan County,20.9,35173
+1071,2010,Morgan County,19.6,35634
+1072,2009,Morgan County,19.6,33083
+1073,2008,Morgan County,21.1,33695
+1074,2007,Morgan County,20.2,33087
+1075,2006,Morgan County,18.4,31676
+1076,2005,Morgan County,18.0,32337
+1077,2004,Morgan County,14.8,32012
+1078,2003,Morgan County,14.2,31671
+1079,2002,Morgan County,14.3,30584
+1080,2019,Morrow County ,8.5,59498
+1081,2018,Morrow County ,11.9,60452
+1082,2017,Morrow County ,11.2,55466
+1083,2016,Morrow County ,12.2,52953
+1084,2015,Morrow County ,11.3,52312
+1085,2014,Morrow County ,12.1,49846
+1086,2013,Morrow County ,13.3,49980
+1087,2012,Morrow County ,14.2,50904
+1088,2011,Morrow County ,13.7,47431
+1089,2010,Morrow County ,13.7,47080
+1090,2009,Morrow County ,12.8,47645
+1091,2008,Morrow County ,11.1,48312
+1092,2007,Morrow County ,10.2,48900
+1093,2006,Morrow County ,10.7,46443
+1094,2005,Morrow County ,9.9,43614
+1095,2004,Morrow County ,9.8,44405
+1096,2003,Morrow County ,9.1,42842
+1097,2002,Morrow County ,9.6,41251
+1098,2019,Muskingum County,15.3,52105
+1099,2018,Muskingum County,16.6,49586
+1100,2017,Muskingum County,14.8,44884
+1101,2016,Muskingum County,14.8,44871
+1102,2015,Muskingum County,16.5,43324
+1103,2014,Muskingum County,19.1,41814
+1104,2013,Muskingum County,20.6,40399
+1105,2012,Muskingum County,20.0,39814
+1106,2011,Muskingum County,18.9,38652
+1107,2010,Muskingum County,17.8,40485
+1108,2009,Muskingum County,16.8,37748
+1109,2008,Muskingum County,16.9,41185
+1110,2007,Muskingum County,16.4,40447
+1111,2006,Muskingum County,16.1,37179
+1112,2005,Muskingum County,15.2,37368
+1113,2004,Muskingum County,14.2,37192
+1114,2003,Muskingum County,13.1,36120
+1115,2002,Muskingum County,12.6,35655
+1116,2019,Noble County ,14.2,50788
+1117,2018,Noble County ,18.1,48792
+1118,2017,Noble County ,16.2,44835
+1119,2016,Noble County ,15.1,48836
+1120,2015,Noble County ,15.0,47714
+1121,2014,Noble County ,16.3,43953
+1122,2013,Noble County ,17.3,42425
+1123,2012,Noble County ,17.5,40405
+1124,2011,Noble County ,18.1,41151
+1125,2010,Noble County ,17.3,38013
+1126,2009,Noble County ,18.4,42509
+1127,2008,Noble County ,16.5,40493
+1128,2007,Noble County ,16.4,37043
+1129,2006,Noble County ,16.2,38145
+1130,2005,Noble County ,14.5,34483
+1131,2004,Noble County ,13.2,33860
+1132,2003,Noble County ,12.1,32836
+1133,2002,Noble County ,14.0,32193
+1134,2019,Ottawa County,8.1,63352
+1135,2018,Ottawa County,9.5,58345
+1136,2017,Ottawa County,8.9,55968
+1137,2016,Ottawa County,10.4,56569
+1138,2015,Ottawa County,9.7,58793
+1139,2014,Ottawa County,10.1,50345
+1140,2013,Ottawa County,10.4,51787
+1141,2012,Ottawa County,11.2,51216
+1142,2011,Ottawa County,10.9,51641
+1143,2010,Ottawa County,10.2,50707
+1144,2009,Ottawa County,10.7,50104
+1145,2008,Ottawa County,9.0,52281
+1146,2007,Ottawa County,8.5,51067
+1147,2006,Ottawa County,7.9,53107
+1148,2005,Ottawa County,7.3,50105
+1149,2004,Ottawa County,7.5,46849
+1150,2003,Ottawa County,6.9,45638
+1151,2002,Ottawa County,6.6,44268
+1152,2019,Paulding County,9.8,58100
+1153,2018,Paulding County,10.3,53876
+1154,2017,Paulding County,10.2,52534
+1155,2016,Paulding County,10.7,51020
+1156,2015,Paulding County,10.9,49796
+1157,2014,Paulding County,12.3,47358
+1158,2013,Paulding County,12.3,46921
+1159,2012,Paulding County,12.0,44453
+1160,2011,Paulding County,13.8,41946
+1161,2010,Paulding County,13.5,43791
+1162,2009,Paulding County,10.9,46383
+1163,2008,Paulding County,11.0,46974
+1164,2007,Paulding County,9.4,45541
+1165,2006,Paulding County,8.9,44318
+1166,2005,Paulding County,9.1,42412
+1167,2004,Paulding County,8.7,41891
+1168,2003,Paulding County,8.3,40382
+1169,2002,Paulding County,7.9,40133
+1170,2019,Perry County,15.0,51875
+1171,2018,Perry County,16.4,51534
+1172,2017,Perry County,15.7,51702
+1173,2016,Perry County,17.0,47543
+1174,2015,Perry County,18.8,44738
+1175,2014,Perry County,17.8,43341
+1176,2013,Perry County,17.8,41586
+1177,2012,Perry County,19.3,40590
+1178,2011,Perry County,17.7,39383
+1179,2010,Perry County,19.1,39387
+1180,2009,Perry County,17.1,42625
+1181,2008,Perry County,15.8,40841
+1182,2007,Perry County,14.8,41463
+1183,2006,Perry County,17.5,38853
+1184,2005,Perry County,14.1,37436
+1185,2004,Perry County,13.2,36754
+1186,2003,Perry County,12.2,35162
+1187,2002,Perry County,12.8,34340
+1188,2019,Pickaway County,11.5,63931
+1189,2018,Pickaway County,12.1,58742
+1190,2017,Pickaway County,12.0,62445
+1191,2016,Pickaway County,13.2,60051
+1192,2015,Pickaway County,12.4,58472
+1193,2014,Pickaway County,13.2,54868
+1194,2013,Pickaway County,13.6,52666
+1195,2012,Pickaway County,14.6,54540
+1196,2011,Pickaway County,14.9,52161
+1197,2010,Pickaway County,12.7,49926
+1198,2009,Pickaway County,14.2,47120
+1199,2008,Pickaway County,12.4,50989
+1200,2007,Pickaway County,11.9,49408
+1201,2006,Pickaway County,11.4,48732
+1202,2005,Pickaway County,11.3,47559
+1203,2004,Pickaway County,11.1,44595
+1204,2003,Pickaway County,10.3,42686
+1205,2002,Pickaway County,10.0,42283
+1206,2019,Pike County,19.1,46255
+1207,2018,Pike County,20.5,45163
+1208,2017,Pike County,20.0,43499
+1209,2016,Pike County,20.5,42869
+1210,2015,Pike County,21.4,39851
+1211,2014,Pike County,21.9,40512
+1212,2013,Pike County,24.3,41092
+1213,2012,Pike County,23.2,36819
+1214,2011,Pike County,22.7,37802
+1215,2010,Pike County,26.3,35051
+1216,2009,Pike County,21.6,38982
+1217,2008,Pike County,19.6,37151
+1218,2007,Pike County,22.9,35434
+1219,2006,Pike County,23.4,33789
+1220,2005,Pike County,21.4,33575
+1221,2004,Pike County,17.2,33302
+1222,2003,Pike County,15.7,32951
+1223,2002,Pike County,16.3,31871
+1224,2019,Portage County,11.9,57439
+1225,2018,Portage County,11.3,63689
+1226,2017,Portage County,11.8,59490
+1227,2016,Portage County,13.5,52947
+1228,2015,Portage County,13.6,53609
+1229,2014,Portage County,14.2,52047
+1230,2013,Portage County,16.9,52576
+1231,2012,Portage County,14.9,52249
+1232,2011,Portage County,15.8,49712
+1233,2010,Portage County,15.1,49287
+1234,2009,Portage County,14.3,49089
+1235,2008,Portage County,11.8,52725
+1236,2007,Portage County,10.8,50629
+1237,2006,Portage County,12.7,44950
+1238,2005,Portage County,10.9,47083
+1239,2004,Portage County,9.7,45795
+1240,2003,Portage County,8.7,44615
+1241,2002,Portage County,8.6,43765
+1242,2019,Preble County,8.9,62128
+1243,2018,Preble County,9.7,53904
+1244,2017,Preble County,9.9,52300
+1245,2016,Preble County,11.0,57896
+1246,2015,Preble County,12.7,51042
+1247,2014,Preble County,13.0,49516
+1248,2013,Preble County,13.1,47251
+1249,2012,Preble County,12.3,46298
+1250,2011,Preble County,11.6,45920
+1251,2010,Preble County,12.1,47615
+1252,2009,Preble County,10.3,47018
+1253,2008,Preble County,8.4,49237
+1254,2007,Preble County,9.1,48323
+1255,2006,Preble County,9.1,47545
+1256,2005,Preble County,8.7,44273
+1257,2004,Preble County,8.1,43281
+1258,2003,Preble County,7.5,41895
+1259,2002,Preble County,7.8,41636
+1260,2019,Putnam County,7.2,73454
+1261,2018,Putnam County,5.5,64304
+1262,2017,Putnam County,6.4,62944
+1263,2016,Putnam County,8.3,61069
+1264,2015,Putnam County,7.2,60036
+1265,2014,Putnam County,7.8,56519
+1266,2013,Putnam County,7.2,60562
+1267,2012,Putnam County,8.2,57079
+1268,2011,Putnam County,6.4,57039
+1269,2010,Putnam County,9.0,53920
+1270,2009,Putnam County,7.5,54761
+1271,2008,Putnam County,7.6,56708
+1272,2007,Putnam County,6.4,56101
+1273,2006,Putnam County,6.9,51078
+1274,2005,Putnam County,6.0,50262
+1275,2004,Putnam County,6.5,48926
+1276,2003,Putnam County,5.9,48174
+1277,2002,Putnam County,5.4,46977
+1278,2019,Richland County ,13.5,51883
+1279,2018,Richland County ,14.4,49668
+1280,2017,Richland County ,13.4,47141
+1281,2016,Richland County ,15.8,44835
+1282,2015,Richland County ,15.1,45273
+1283,2014,Richland County ,15.9,41948
+1284,2013,Richland County ,17.6,40210
+1285,2012,Richland County ,18.4,41772
+1286,2011,Richland County ,17.2,40424
+1287,2010,Richland County ,14.7,41462
+1288,2009,Richland County ,14.8,39798
+1289,2008,Richland County ,14.7,42891
+1290,2007,Richland County ,11.9,43320
+1291,2006,Richland County ,13.3,39620
+1292,2005,Richland County ,12.1,39841
+1293,2004,Richland County ,12.0,39328
+1294,2003,Richland County ,11.1,38595
+1295,2002,Richland County ,10.8,37597
+1296,2019,Ross County ,15.2,54728
+1297,2018,Ross County ,18.4,49385
+1298,2017,Ross County ,16.3,50387
+1299,2016,Ross County ,18.6,47507
+1300,2015,Ross County ,17.8,45615
+1301,2014,Ross County ,19.2,42466
+1302,2013,Ross County ,19.4,42730
+1303,2012,Ross County ,19.6,43285
+1304,2011,Ross County ,19.4,43118
+1305,2010,Ross County ,19.3,41318
+1306,2009,Ross County ,18.3,41672
+1307,2008,Ross County ,16.3,44028
+1308,2007,Ross County ,13.8,42660
+1309,2006,Ross County ,16.1,38764
+1310,2005,Ross County ,14.5,38285
+1311,2004,Ross County ,13.1,38939
+1312,2003,Ross County ,12.1,38067
+1313,2002,Ross County ,13.0,37165
+1314,2019,Sandusky County ,9.6,58415
+1315,2018,Sandusky County ,10.0,53978
+1316,2017,Sandusky County ,11.1,53058
+1317,2016,Sandusky County ,11.6,52452
+1318,2015,Sandusky County ,12.2,49994
+1319,2014,Sandusky County ,14.5,46447
+1320,2013,Sandusky County ,12.9,46800
+1321,2012,Sandusky County ,11.7,46274
+1322,2011,Sandusky County ,14.2,44016
+1323,2010,Sandusky County ,12.3,44346
+1324,2009,Sandusky County ,12.2,45402
+1325,2008,Sandusky County ,10.0,47020
+1326,2007,Sandusky County ,9.7,45888
+1327,2006,Sandusky County ,10.1,45235
+1328,2005,Sandusky County ,8.9,44646
+1329,2004,Sandusky County ,8.9,42793
+1330,2003,Sandusky County ,8.2,41619
+1331,2002,Sandusky County ,7.9,40639
+1332,2019,Scioto County,21.9,45410
+1333,2018,Scioto County,22.6,41267
+1334,2017,Scioto County,21.4,41843
+1335,2016,Scioto County,22.1,39245
+1336,2015,Scioto County,23.0,37277
+1337,2014,Scioto County,27.2,37625
+1338,2013,Scioto County,24.5,36682
+1339,2012,Scioto County,24.4,36379
+1340,2011,Scioto County,26.1,31987
+1341,2010,Scioto County,22.2,35860
+1342,2009,Scioto County,23.5,32454
+1343,2008,Scioto County,20.2,36020
+1344,2007,Scioto County,20.6,33044
+1345,2006,Scioto County,22.8,31280
+1346,2005,Scioto County,25.3,29929
+1347,2004,Scioto County,18.9,30557
+1348,2003,Scioto County,17.4,29216
+1349,2002,Scioto County,18.4,28325
+1350,2019,Seneca County ,12.1,55664
+1351,2018,Seneca County ,12.1,52165
+1352,2017,Seneca County ,13.6,47805
+1353,2016,Seneca County ,12.9,49546
+1354,2015,Seneca County ,13.6,48617
+1355,2014,Seneca County ,17.5,45003
+1356,2013,Seneca County ,13.9,47121
+1357,2012,Seneca County ,16.6,43899
+1358,2011,Seneca County ,16.6,38349
+1359,2010,Seneca County ,14.6,42642
+1360,2009,Seneca County ,12.5,39481
+1361,2008,Seneca County ,11.1,44529
+1362,2007,Seneca County ,12.0,43712
+1363,2006,Seneca County ,10.8,41808
+1364,2005,Seneca County ,10.8,41361
+1365,2004,Seneca County ,9.8,39620
+1366,2003,Seneca County ,9.1,38736
+1367,2002,Seneca County ,8.8,37544
+1368,2019,Shelby County ,9.1,64304
+1369,2018,Shelby County ,9.0,63398
+1370,2017,Shelby County ,8.1,60148
+1371,2016,Shelby County ,9.4,59604
+1372,2015,Shelby County ,8.9,59149
+1373,2014,Shelby County ,10.7,50774
+1374,2013,Shelby County ,10.0,51529
+1375,2012,Shelby County ,10.2,53390
+1376,2011,Shelby County ,11.5,53028
+1377,2010,Shelby County ,12.2,46062
+1378,2009,Shelby County ,10.5,47083
+1379,2008,Shelby County ,9.2,52152
+1380,2007,Shelby County ,9.5,51841
+1381,2006,Shelby County ,8.5,47231
+1382,2005,Shelby County ,9.2,47596
+1383,2004,Shelby County ,7.8,46686
+1384,2003,Shelby County ,7.3,45580
+1385,2002,Shelby County ,7.0,44304
+1386,2019,Stark County,13.0,55623
+1387,2018,Stark County,14.4,52310
+1388,2017,Stark County,14.3,51214
+1389,2016,Stark County,13.2,51036
+1390,2015,Stark County,13.4,48976
+1391,2014,Stark County,14.9,47745
+1392,2013,Stark County,15.4,45199
+1393,2012,Stark County,14.7,45626
+1394,2011,Stark County,16.3,42190
+1395,2010,Stark County,14.6,42805
+1396,2009,Stark County,14.8,44363
+1397,2008,Stark County,12.4,44682
+1398,2007,Stark County,10.9,44950
+1399,2006,Stark County,12.3,42548
+1400,2005,Stark County,12.0,42343
+1401,2004,Stark County,10.7,41180
+1402,2003,Stark County,9.8,40347
+1403,2002,Stark County,9.4,40383
+1404,2019,Summit County ,14.2,57753
+1405,2018,Summit County ,12.0,58890
+1406,2017,Summit County ,12.9,55531
+1407,2016,Summit County ,13.7,52226
+1408,2015,Summit County ,14.4,51434
+1409,2014,Summit County ,13.4,50453
+1410,2013,Summit County ,14.8,49353
+1411,2012,Summit County ,15.9,48836
+1412,2011,Summit County ,16.5,46595
+1413,2010,Summit County ,15.4,45768
+1414,2009,Summit County ,14.8,47042
+1415,2008,Summit County ,12.5,49528
+1416,2007,Summit County ,14.0,47575
+1417,2006,Summit County ,12.6,45022
+1418,2005,Summit County ,11.6,44248
+1419,2004,Summit County ,12.3,44030
+1420,2003,Summit County ,11.1,42843
+1421,2002,Summit County ,10.2,41856
+1422,2019,Trumbull County,15.4,47966
+1423,2018,Trumbull County,17.6,47424
+1424,2017,Trumbull County,15.4,46340
+1425,2016,Trumbull County,17.6,45929
+1426,2015,Trumbull County,17.6,42831
+1427,2014,Trumbull County,17.2,43160
+1428,2013,Trumbull County,18.7,41951
+1429,2012,Trumbull County,17.7,41253
+1430,2011,Trumbull County,16.5,40913
+1431,2010,Trumbull County,18.2,40389
+1432,2009,Trumbull County,16.0,40980
+1433,2008,Trumbull County,15.5,41419
+1434,2007,Trumbull County,14.6,41829
+1435,2006,Trumbull County,11.9,42240
+1436,2005,Trumbull County,11.5,40916
+1437,2004,Trumbull County,12.1,39176
+1438,2003,Trumbull County,11.0,38206
+1439,2002,Trumbull County,10.6,37827
+1440,2019,Tuscarawas County,11.2,54150
+1441,2018,Tuscarawas County,12.3,51030
+1442,2017,Tuscarawas County,12.8,51408
+1443,2016,Tuscarawas County,12.7,50273
+1444,2015,Tuscarawas County,13.0,47588
+1445,2014,Tuscarawas County,13.4,46128
+1446,2013,Tuscarawas County,14.3,44121
+1447,2012,Tuscarawas County,13.5,43546
+1448,2011,Tuscarawas County,14.5,41857
+1449,2010,Tuscarawas County,14.7,39580
+1450,2009,Tuscarawas County,14.1,40933
+1451,2008,Tuscarawas County,11.4,42959
+1452,2007,Tuscarawas County,12.0,41138
+1453,2006,Tuscarawas County,12.3,38371
+1454,2005,Tuscarawas County,9.6,39260
+1455,2004,Tuscarawas County,10.1,37802
+1456,2003,Tuscarawas County,9.6,36803
+1457,2002,Tuscarawas County,9.4,36149
+1458,2019,Union County,5.4,91597
+1459,2018,Union County,5.0,84861
+1460,2017,Union County,5.2,86609
+1461,2016,Union County,6.1,78796
+1462,2015,Union County,7.6,76116
+1463,2014,Union County,7.7,69900
+1464,2013,Union County,7.8,68650
+1465,2012,Union County,8.0,63378
+1466,2011,Union County,7.5,64403
+1467,2010,Union County,8.2,63233
+1468,2009,Union County,8.0,63122
+1469,2008,Union County,7.1,64179
+1470,2007,Union County,5.1,64094
+1471,2006,Union County,6.2,63175
+1472,2005,Union County,6.2,64095
+1473,2004,Union County,6.7,56521
+1474,2003,Union County,6.0,54470
+1475,2002,Union County,5.9,53243
+1476,2019,Van Wert County,8.5,55361
+1477,2018,Van Wert County,8.4,54331
+1478,2017,Van Wert County,11.4,49120
+1479,2016,Van Wert County,8.9,52610
+1480,2015,Van Wert County,11.2,51264
+1481,2014,Van Wert County,10.1,49565
+1482,2013,Van Wert County,13.3,47169
+1483,2012,Van Wert County,11.0,45024
+1484,2011,Van Wert County,10.5,46717
+1485,2010,Van Wert County,12.5,44338
+1486,2009,Van Wert County,8.6,42595
+1487,2008,Van Wert County,8.1,46734
+1488,2007,Van Wert County,7.0,42208
+1489,2006,Van Wert County,8.2,42038
+1490,2005,Van Wert County,7.2,44270
+1491,2004,Van Wert County,7.0,42351
+1492,2003,Van Wert County,6.5,40239
+1493,2002,Van Wert County,6.5,39368
+1494,2019,Vinton County,18.7,46301
+1495,2018,Vinton County,19.0,43457
+1496,2017,Vinton County,19.8,40927
+1497,2016,Vinton County,20.8,41522
+1498,2015,Vinton County,18.9,41675
+1499,2014,Vinton County,23.7,37633
+1500,2013,Vinton County,22.2,37842
+1501,2012,Vinton County,21.9,36432
+1502,2011,Vinton County,23.5,35298
+1503,2010,Vinton County,21.8,34977
+1504,2009,Vinton County,19.8,34275
+1505,2008,Vinton County,23.0,34306
+1506,2007,Vinton County,18.9,37627
+1507,2006,Vinton County,19.0,34565
+1508,2005,Vinton County,20.6,32977
+1509,2004,Vinton County,16.8,32086
+1510,2003,Vinton County,15.0,31044
+1511,2002,Vinton County,15.8,30337
+1512,2019,Warren County,4.5,91645
+1513,2018,Warren County,5.2,87391
+1514,2017,Warren County,4.7,85532
+1515,2016,Warren County,5.4,81543
+1516,2015,Warren County,5.2,81383
+1517,2014,Warren County,5.8,72973
+1518,2013,Warren County,7.3,75041
+1519,2012,Warren County,6.6,73598
+1520,2011,Warren County,6.9,70245
+1521,2010,Warren County,5.9,67172
+1522,2009,Warren County,5.9,68798
+1523,2008,Warren County,6.6,71139
+1524,2007,Warren County,5.1,71178
+1525,2006,Warren County,5.3,67167
+1526,2005,Warren County,5.0,63870
+1527,2004,Warren County,5.3,63899
+1528,2003,Warren County,5.1,61931
+1529,2002,Warren County,4.8,60083
+1530,2019,Washington County,11.0,52565
+1531,2018,Washington County,15.9,50904
+1532,2017,Washington County,14.6,46417
+1533,2016,Washington County,13.7,47802
+1534,2015,Washington County,15.0,44697
+1535,2014,Washington County,15.7,45048
+1536,2013,Washington County,16.3,41236
+1537,2012,Washington County,16.2,41747
+1538,2011,Washington County,14.8,42211
+1539,2010,Washington County,15.7,41231
+1540,2009,Washington County,13.9,41345
+1541,2008,Washington County,16.9,41800
+1542,2007,Washington County,13.5,39502
+1543,2006,Washington County,14.6,38007
+1544,2005,Washington County,13.3,36933
+1545,2004,Washington County,12.2,36297
+1546,2003,Washington County,11.2,35251
+1547,2002,Washington County,11.1,35191
+1548,2019,Wayne County,9.9,58747
+1549,2018,Wayne County,9.4,59142
+1550,2017,Wayne County,12.9,56172
+1551,2016,Wayne County,11.9,53605
+1552,2015,Wayne County,11.3,52717
+1553,2014,Wayne County,13.9,50106
+1554,2013,Wayne County,13.1,49580
+1555,2012,Wayne County,12.2,47859
+1556,2011,Wayne County,13.7,46842
+1557,2010,Wayne County,12.6,46157
+1558,2009,Wayne County,11.2,47200
+1559,2008,Wayne County,11.1,48453
+1560,2007,Wayne County,8.8,46928
+1561,2006,Wayne County,10.8,45633
+1562,2005,Wayne County,10.5,44320
+1563,2004,Wayne County,9.1,43120
+1564,2003,Wayne County,8.6,42079
+1565,2002,Wayne County,8.4,41510
+1566,2019,Williams County,9.3,54239
+1567,2018,Williams County,9.7,54581
+1568,2017,Williams County,10.7,50347
+1569,2016,Williams County,9.7,50770
+1570,2015,Williams County,12.0,49031
+1571,2014,Williams County,14.2,42214
+1572,2013,Williams County,12.1,45510
+1573,2012,Williams County,13.9,42418
+1574,2011,Williams County,12.5,40856
+1575,2010,Williams County,12.2,41791
+1576,2009,Williams County,12.1,41079
+1577,2008,Williams County,9.7,46904
+1578,2007,Williams County,8.9,45377
+1579,2006,Williams County,9.7,42827
+1580,2005,Williams County,9.2,43189
+1581,2004,Williams County,8.3,41939
+1582,2003,Williams County,7.6,40623
+1583,2002,Williams County,7.5,40217
+1584,2019,Wood County,11.2,64723
+1585,2018,Wood County,11.9,64282
+1586,2017,Wood County,10.8,61774
+1587,2016,Wood County,11.4,60347
+1588,2015,Wood County,11.7,57390
+1589,2014,Wood County,13.5,54996
+1590,2013,Wood County,13.0,52578
+1591,2012,Wood County,13.7,50534
+1592,2011,Wood County,13.9,50624
+1593,2010,Wood County,12.8,49344
+1594,2009,Wood County,13.5,50727
+1595,2008,Wood County,10.1,54831
+1596,2007,Wood County,10.8,50857
+1597,2006,Wood County,10.8,51042
+1598,2005,Wood County,11.5,47419
+1599,2004,Wood County,8.0,46191
+1600,2003,Wood County,7.8,45741
+1601,2002,Wood County,7.2,45176
+1602,2019,Wyandot County,7.5,61733
+1603,2018,Wyandot County,8.0,55995
+1604,2017,Wyandot County,8.8,47527
+1605,2016,Wyandot County,8.6,55590
+1606,2015,Wyandot County,8.8,51109
+1607,2014,Wyandot County,10.0,47905
+1608,2013,Wyandot County,11.2,46568
+1609,2012,Wyandot County,10.1,46327
+1610,2011,Wyandot County,9.5,45555
+1611,2010,Wyandot County,9.4,43753
+1612,2009,Wyandot County,9.9,39792
+1613,2008,Wyandot County,8.4,47168
+1614,2007,Wyandot County,7.4,46926
+1615,2006,Wyandot County,8.0,44482
+1616,2005,Wyandot County,6.8,43113
+1617,2004,Wyandot County,6.6,42428
+1618,2003,Wyandot County,6.3,40819
+1619,2002,Wyandot County,6.7,39216
