@@ -1,8 +1,7 @@
 Year,State and County,Poverty Percentage,Median Household Income
-2019,United States,12.3,65712
 2018,United States,13.1,61937
 2017,United States,13.4,60336
-2016,United States,14.0,57617
+2016,United States,14,57617
 2015,United States,14.7,55775
 2014,United States,15.5,53657
 2013,United States,15.8,52250
@@ -11,13 +10,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,United States,15.3,50046
 2009,United States,14.3,50221
 2008,United States,13.2,52029
-2007,United States,13.0,50740
+2007,United States,13,50740
 2006,United States,13.3,48451
 2005,United States,13.3,46242
 2004,United States,12.7,44334
 2003,United States,12.5,43318
 2002,United States,12.1,42409
-2019,Ohio,13.0,58704
 2018,Ohio,13.8,56155
 2017,Ohio,13.9,54077
 2016,Ohio,14.5,52357
@@ -31,11 +29,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2008,Ohio,13.3,48011
 2007,Ohio,13.1,46645
 2006,Ohio,13.2,44609
-2005,Ohio,13.0,43547
+2005,Ohio,13,43547
 2004,Ohio,11.7,43371
 2003,Ohio,10.7,43119
 2002,Ohio,10.2,42246
-2019,Adams County ,19.1,43145
 2018,Adams County ,19.7,42154
 2017,Adams County ,18.6,41644
 2016,Adams County ,20.2,38302
@@ -53,12 +50,11 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Adams County ,16.1,31364
 2003,Adams County ,14.8,30487
 2002,Adams County ,15.8,29588
-2019,Allen County ,12.9,58271
 2018,Allen County ,14.4,50301
 2017,Allen County ,15.2,51325
 2016,Allen County ,15.5,47924
 2015,Allen County ,15.5,49297
-2014,Allen County ,18.0,43602
+2014,Allen County ,18,43602
 2013,Allen County ,16.1,43274
 2012,Allen County ,20.1,42173
 2011,Allen County ,19.2,41453
@@ -71,7 +67,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Allen County ,12.2,39134
 2003,Allen County ,11.3,39069
 2002,Allen County ,10.8,37621
-2019,Ashland County ,12.6,52554
 2018,Ashland County ,10.4,54362
 2017,Ashland County ,11.4,51103
 2016,Ashland County ,12.2,50612
@@ -82,14 +77,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2011,Ashland County ,13.1,44950
 2010,Ashland County ,15.6,41734
 2009,Ashland County ,16.7,43794
-2008,Ashland County ,12.0,43151
-2007,Ashland County ,10.0,46805
+2008,Ashland County ,12,43151
+2007,Ashland County ,10,46805
 2006,Ashland County ,11.6,45527
 2005,Ashland County ,12.7,41460
 2004,Ashland County ,9.7,41074
-2003,Ashland County ,9.0,39953
+2003,Ashland County ,9,39953
 2002,Ashland County ,8.6,39306
-2019,Ashtabula County ,18.7,47388
 2018,Ashtabula County ,17.4,46950
 2017,Ashtabula County ,19.3,45157
 2016,Ashtabula County ,18.2,43668
@@ -105,17 +99,16 @@ Year,State and County,Poverty Percentage,Median Household Income
 2006,Ashtabula County ,15.9,38834
 2005,Ashtabula County ,15.3,37515
 2004,Ashtabula County ,12.7,37729
-2003,Ashtabula County ,12.0,36034
+2003,Ashtabula County ,12,36034
 2002,Ashtabula County ,12.1,35054
-2019,Athens County ,26.6,43621
 2018,Athens County ,30.7,40416
 2017,Athens County ,28.8,42955
 2016,Athens County ,28.8,38131
 2015,Athens County ,31.5,38400
 2014,Athens County ,29.9,34216
-2013,Athens County ,31.0,35783
+2013,Athens County ,31,35783
 2012,Athens County ,33.3,33950
-2011,Athens County ,35.0,33943
+2011,Athens County ,35,33943
 2010,Athens County ,24.8,35557
 2009,Athens County ,34.7,30823
 2008,Athens County ,29.6,35301
@@ -125,7 +118,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Athens County ,20.2,29785
 2003,Athens County ,18.5,29230
 2002,Athens County ,20.1,28344
-2019,Auglaize County ,7.3,64227
 2018,Auglaize County ,6.9,63754
 2017,Auglaize County ,8.7,63336
 2016,Auglaize County ,9.2,59543
@@ -140,11 +132,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2007,Auglaize County ,7.2,51308
 2006,Auglaize County ,8.1,49067
 2005,Auglaize County ,7.1,48568
-2004,Auglaize County ,7.0,46070
+2004,Auglaize County ,7,46070
 2003,Auglaize County ,6.7,44763
 2002,Auglaize County ,6.5,43744
-2019,Belmont County ,11.6,50166
-2018,Belmont County ,13.0,48989
+2018,Belmont County ,13,48989
 2017,Belmont County ,11.1,52221
 2016,Belmont County ,15.7,45661
 2015,Belmont County ,14.6,45675
@@ -156,22 +147,21 @@ Year,State and County,Poverty Percentage,Median Household Income
 2009,Belmont County ,16.8,37473
 2008,Belmont County ,16.1,37941
 2007,Belmont County ,15.3,35780
-2006,Belmont County ,16.0,35561
+2006,Belmont County ,16,35561
 2005,Belmont County ,16.1,34044
 2004,Belmont County ,14.8,32910
 2003,Belmont County ,14.3,31559
 2002,Belmont County ,14.6,30473
-2019,Brown County ,12.1,58441
 2018,Brown County ,11.8,55334
 2017,Brown County ,16.9,48207
 2016,Brown County ,16.7,51504
 2015,Brown County ,14.9,47202
-2014,Brown County ,15.0,46484
+2014,Brown County ,15,46484
 2013,Brown County ,17.8,43050
 2012,Brown County ,16.8,44209
 2011,Brown County ,15.6,43181
-2010,Brown County ,13.0,41892
-2009,Brown County ,13.0,44796
+2010,Brown County ,13,41892
+2009,Brown County ,13,44796
 2008,Brown County ,13.2,44912
 2007,Brown County ,13.6,43642
 2006,Brown County ,13.8,43071
@@ -179,14 +169,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Brown County ,11.9,41165
 2003,Brown County ,10.5,40096
 2002,Brown County ,10.3,38614
-2019,Butler County ,11.7,68611
 2018,Butler County ,12.4,61053
 2017,Butler County ,10.7,64026
 2016,Butler County ,12.4,63094
 2015,Butler County ,14.4,58954
 2014,Butler County ,14.4,58558
 2013,Butler County ,13.3,55992
-2012,Butler County ,14.0,55599
+2012,Butler County ,14,55599
 2011,Butler County ,13.9,53275
 2010,Butler County ,13.5,54359
 2009,Butler County ,13.2,53543
@@ -197,11 +186,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Butler County ,9.8,49856
 2003,Butler County ,8.9,47954
 2002,Butler County ,8.1,47582
-2019,Carroll County ,11.3,56999
 2018,Carroll County ,12.9,50002
-2017,Carroll County ,13.0,51296
+2017,Carroll County ,13,51296
 2016,Carroll County ,12.8,48616
-2015,Carroll County ,13.0,52166
+2015,Carroll County ,13,52166
 2014,Carroll County ,13.5,46177
 2013,Carroll County ,15.5,44622
 2012,Carroll County ,14.8,42540
@@ -215,25 +203,23 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Carroll County ,10.9,37052
 2003,Carroll County ,10.7,36270
 2002,Carroll County ,10.3,36100
-2019,Champaign County ,7.7,62077
-2018,Champaign County ,10.0,57701
-2017,Champaign County ,11.0,54335
+2018,Champaign County ,10,57701
+2017,Champaign County ,11,54335
 2016,Champaign County ,11.1,56203
 2015,Champaign County ,10.8,58837
 2014,Champaign County ,11.3,50302
-2013,Champaign County ,12.0,48516
+2013,Champaign County ,12,48516
 2012,Champaign County ,13.2,48826
-2011,Champaign County ,14.0,48063
+2011,Champaign County ,14,48063
 2010,Champaign County ,13.1,46577
 2009,Champaign County ,10.2,49500
 2008,Champaign County ,11.8,47225
-2007,Champaign County ,11.0,47384
+2007,Champaign County ,11,47384
 2006,Champaign County ,11.1,43866
 2005,Champaign County ,9.1,47604
 2004,Champaign County ,8.9,44642
 2003,Champaign County ,8.2,44351
-2002,Champaign County ,8.0,43320
-2019,Clark County ,14.6,50832
+2002,Champaign County ,8,43320
 2018,Clark County ,14.9,50089
 2017,Clark County ,15.4,47654
 2016,Clark County ,15.7,47410
@@ -242,16 +228,15 @@ Year,State and County,Poverty Percentage,Median Household Income
 2013,Clark County ,18.2,44029
 2012,Clark County ,19.9,40783
 2011,Clark County ,19.1,41704
-2010,Clark County ,20.0,40524
+2010,Clark County ,20,40524
 2009,Clark County ,16.3,42458
 2008,Clark County ,13.8,45480
 2007,Clark County ,15.5,43407
 2006,Clark County ,14.2,42806
-2005,Clark County ,15.0,40612
+2005,Clark County ,15,40612
 2004,Clark County ,12.8,40776
 2003,Clark County ,11.3,40027
 2002,Clark County ,11.2,39323
-2019,Clermont County ,8.2,68724
 2018,Clermont County ,8.2,65280
 2017,Clermont County ,8.7,66193
 2016,Clermont County ,10.6,61203
@@ -263,15 +248,14 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Clermont County ,9.6,56628
 2009,Clermont County ,10.4,57877
 2008,Clermont County ,8.8,60735
-2007,Clermont County ,9.0,54037
+2007,Clermont County ,9,54037
 2006,Clermont County ,9.1,52914
 2005,Clermont County ,8.4,51456
 2004,Clermont County ,7.8,52951
 2003,Clermont County ,6.9,51940
 2002,Clermont County ,6.8,50761
-2019,Clinton County,14.8,52870
 2018,Clinton County,11.8,53947
-2017,Clinton County,13.0,50794
+2017,Clinton County,13,50794
 2016,Clinton County,13.4,53234
 2015,Clinton County,13.6,47055
 2014,Clinton County,13.7,49453
@@ -281,13 +265,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Clinton County,15.7,44324
 2009,Clinton County,11.9,49453
 2008,Clinton County,10.9,49440
-2007,Clinton County,13.0,47577
+2007,Clinton County,13,47577
 2006,Clinton County,11.8,44921
 2005,Clinton County,10.9,44018
 2004,Clinton County,9.8,41826
 2003,Clinton County,8.9,41650
 2002,Clinton County,8.7,40626
-2019,Columbiana County ,13.2,52693
 2018,Columbiana County ,15.1,44938
 2017,Columbiana County ,15.1,43123
 2016,Columbiana County ,17.2,46873
@@ -305,7 +288,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Columbiana County ,12.2,35644
 2003,Columbiana County ,11.5,34732
 2002,Columbiana County ,12.4,34267
-2019,Coshocton County ,12.5,49679
 2018,Coshocton County ,15.4,46420
 2017,Coshocton County ,15.7,44471
 2016,Coshocton County ,12.7,45777
@@ -313,7 +295,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2014,Coshocton County ,18.1,41547
 2013,Coshocton County ,14.4,39496
 2012,Coshocton County ,15.4,42035
-2011,Coshocton County ,17.0,40282
+2011,Coshocton County ,17,40282
 2010,Coshocton County ,20.4,37227
 2009,Coshocton County ,14.6,38887
 2008,Coshocton County ,13.2,41451
@@ -323,8 +305,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Coshocton County ,11.3,36267
 2003,Coshocton County ,10.2,35268
 2002,Coshocton County ,10.3,34935
-2019,Crawford County ,14.7,49484
-2018,Crawford County ,14.0,44715
+2018,Crawford County ,14,44715
 2017,Crawford County ,15.5,45395
 2016,Crawford County ,13.9,44336
 2015,Crawford County ,16.5,41471
@@ -341,7 +322,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Crawford County ,11.4,38023
 2003,Crawford County ,10.4,37307
 2002,Crawford County ,9.9,36210
-2019,Cuyahoga County ,16.2,52503
 2018,Cuyahoga County ,17.9,50006
 2017,Cuyahoga County ,18.1,46918
 2016,Cuyahoga County ,18.3,46703
@@ -356,10 +336,9 @@ Year,State and County,Poverty Percentage,Median Household Income
 2007,Cuyahoga County ,15.7,44400
 2006,Cuyahoga County ,15.1,41581
 2005,Cuyahoga County ,17.1,39908
-2004,Cuyahoga County ,15.0,40547
+2004,Cuyahoga County ,15,40547
 2003,Cuyahoga County ,13.6,39551
 2002,Cuyahoga County ,12.7,39040
-2019,Darke County ,12.1,56824
 2018,Darke County ,9.5,53853
 2017,Darke County ,9.2,53954
 2016,Darke County ,10.7,52771
@@ -377,7 +356,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Darke County ,8.3,41468
 2003,Darke County ,7.9,40934
 2002,Darke County ,7.5,40042
-2019,Defiance County ,8.8,60918
 2018,Defiance County ,9.1,56740
 2017,Defiance County ,9.5,59538
 2016,Defiance County ,10.4,52210
@@ -395,14 +373,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Defiance County ,7.9,46151
 2003,Defiance County ,7.2,45434
 2002,Defiance County ,6.9,44596
-2019,Delaware County ,4.8,110252
 2018,Delaware County ,4.1,103536
 2017,Delaware County ,4.8,107676
 2016,Delaware County ,4.7,102990
 2015,Delaware County ,4.4,97679
 2014,Delaware County ,4.8,97802
 2013,Delaware County ,5.6,89016
-2012,Delaware County ,5.0,87470
+2012,Delaware County ,5,87470
 2011,Delaware County ,4.5,86980
 2010,Delaware County ,5.8,85628
 2009,Delaware County ,5.1,84762
@@ -410,30 +387,28 @@ Year,State and County,Poverty Percentage,Median Household Income
 2007,Delaware County ,4.5,81309
 2006,Delaware County ,4.2,79650
 2005,Delaware County ,4.5,76214
-2004,Delaware County ,5.0,75098
+2004,Delaware County ,5,75098
 2003,Delaware County ,4.6,73375
 2002,Delaware County ,4.2,73620
-2019,Erie County ,11.6,60790
 2018,Erie County ,10.6,53135
 2017,Erie County ,12.4,54849
 2016,Erie County ,12.5,51354
 2015,Erie County ,12.7,48129
 2014,Erie County ,13.9,49234
-2013,Erie County ,15.0,46495
+2013,Erie County ,15,46495
 2012,Erie County ,12.2,46307
 2011,Erie County ,12.8,46613
 2010,Erie County ,14.9,43935
 2009,Erie County ,14.6,44499
-2008,Erie County ,12.0,47093
+2008,Erie County ,12,47093
 2007,Erie County ,11.1,48689
 2006,Erie County ,10.5,46335
 2005,Erie County ,11.6,43681
 2004,Erie County ,9.6,44515
-2003,Erie County ,9.0,43716
+2003,Erie County ,9,43716
 2002,Erie County ,9.1,42340
-2019,Fairfield County ,8.1,71782
 2018,Fairfield County ,9.3,67654
-2017,Fairfield County ,9.0,67276
+2017,Fairfield County ,9,67276
 2016,Fairfield County ,9.7,65198
 2015,Fairfield County ,9.1,61450
 2014,Fairfield County ,9.6,59921
@@ -449,32 +424,30 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Fairfield County ,7.7,52088
 2003,Fairfield County ,6.8,51300
 2002,Fairfield County ,6.7,50096
-2019,Fayette County ,13.6,51023
 2018,Fayette County ,15.1,47733
 2017,Fayette County ,15.6,46067
-2016,Fayette County ,16.0,44257
+2016,Fayette County ,16,44257
 2015,Fayette County ,16.3,45068
 2014,Fayette County ,15.8,44947
 2013,Fayette County ,17.9,40031
 2012,Fayette County ,17.7,42100
-2011,Fayette County ,18.0,36684
+2011,Fayette County ,18,36684
 2010,Fayette County ,16.2,40250
 2009,Fayette County ,20.3,37614
 2008,Fayette County ,13.1,44703
 2007,Fayette County ,13.6,41992
 2006,Fayette County ,13.1,39280
 2005,Fayette County ,13.4,40928
-2004,Fayette County ,12.0,39690
+2004,Fayette County ,12,39690
 2003,Fayette County ,10.6,39126
 2002,Fayette County ,10.7,37609
-2019,Franklin County,13.5,64648
 2018,Franklin County,15.5,60383
-2017,Franklin County,16.0,59214
+2017,Franklin County,16,59214
 2016,Franklin County,16.6,56090
 2015,Franklin County,17.1,53939
 2014,Franklin County,17.3,53164
 2013,Franklin County,17.7,51456
-2012,Franklin County,18.0,50053
+2012,Franklin County,18,50053
 2011,Franklin County,18.8,47174
 2010,Franklin County,18.8,47621
 2009,Franklin County,18.4,47460
@@ -483,9 +456,8 @@ Year,State and County,Poverty Percentage,Median Household Income
 2006,Franklin County,16.4,45886
 2005,Franklin County,14.7,45463
 2004,Franklin County,13.1,45459
-2003,Franklin County,12.0,44967
-2002,Franklin County,11.0,44199
-2019,Fulton County ,6.9,64334
+2003,Franklin County,12,44967
+2002,Franklin County,11,44199
 2018,Fulton County ,7.9,62800
 2017,Fulton County ,8.2,59214
 2016,Fulton County ,8.9,56504
@@ -503,14 +475,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Fulton County ,7.1,47958
 2003,Fulton County ,6.6,46402
 2002,Fulton County ,6.1,44869
-2019,Gallia County ,16.5,48094
 2018,Gallia County ,22.1,43785
-2017,Gallia County ,19.0,43149
+2017,Gallia County ,19,43149
 2016,Gallia County ,20.6,42074
 2015,Gallia County ,21.7,38738
 2014,Gallia County ,26.1,36675
 2013,Gallia County ,20.3,39447
-2012,Gallia County ,21.0,38397
+2012,Gallia County ,21,38397
 2011,Gallia County ,21.2,36441
 2010,Gallia County ,18.2,37923
 2009,Gallia County ,20.9,36575
@@ -521,15 +492,14 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Gallia County ,17.4,33156
 2003,Gallia County ,15.5,32233
 2002,Gallia County ,16.3,31178
-2019,Geauga County ,5.5,79865
 2018,Geauga County ,5.7,84093
 2017,Geauga County ,6.4,82744
 2016,Geauga County ,5.8,77938
 2015,Geauga County ,6.7,76315
 2014,Geauga County ,7.8,72264
 2013,Geauga County ,7.4,69078
-2012,Geauga County ,8.0,69214
-2011,Geauga County ,8.0,66088
+2012,Geauga County ,8,69214
+2011,Geauga County ,8,66088
 2010,Geauga County ,7.8,63172
 2009,Geauga County ,7.9,62407
 2008,Geauga County ,6.9,62223
@@ -539,7 +509,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Geauga County ,5.5,61254
 2003,Geauga County ,5.6,59235
 2002,Geauga County ,5.5,59425
-2019,Greene County ,9.9,69709
 2018,Greene County ,11.6,68380
 2017,Greene County ,9.8,68040
 2016,Greene County ,12.1,62751
@@ -557,7 +526,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Greene County ,9.4,51173
 2003,Greene County ,8.2,50088
 2002,Greene County ,7.5,49842
-2019,Guernsey County ,15.5,48283
 2018,Guernsey County ,18.8,44623
 2017,Guernsey County ,18.2,43733
 2016,Guernsey County ,18.6,43519
@@ -573,12 +541,11 @@ Year,State and County,Poverty Percentage,Median Household Income
 2006,Guernsey County ,19.6,34411
 2005,Guernsey County ,17.2,33131
 2004,Guernsey County ,15.2,32909
-2003,Guernsey County ,14.0,32165
-2002,Guernsey County ,14.0,31166
-2019,Hamilton County ,14.6,60251
+2003,Guernsey County ,14,32165
+2002,Guernsey County ,14,31166
 2018,Hamilton County ,15.4,57300
 2017,Hamilton County ,16.2,55178
-2016,Hamilton County ,16.0,53344
+2016,Hamilton County ,16,53344
 2015,Hamilton County ,16.6,51070
 2014,Hamilton County ,17.6,48973
 2013,Hamilton County ,18.7,47123
@@ -587,23 +554,22 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Hamilton County ,18.5,46359
 2009,Hamilton County ,15.2,46509
 2008,Hamilton County ,13.6,50285
-2007,Hamilton County ,13.0,48435
+2007,Hamilton County ,13,48435
 2006,Hamilton County ,14.7,44814
-2005,Hamilton County ,14.0,44033
+2005,Hamilton County ,14,44033
 2004,Hamilton County ,13.1,43811
 2003,Hamilton County ,11.6,44093
 2002,Hamilton County ,10.8,42457
-2019,Hancock County ,9.3,62720
 2018,Hancock County ,9.9,61579
 2017,Hancock County ,9.7,54386
-2016,Hancock County ,10.0,56406
+2016,Hancock County ,10,56406
 2015,Hancock County ,10.6,55265
 2014,Hancock County ,12.7,51498
 2013,Hancock County ,12.6,48729
 2012,Hancock County ,14.6,49866
 2011,Hancock County ,13.3,48258
 2010,Hancock County ,11.9,49918
-2009,Hancock County ,11.0,48676
+2009,Hancock County ,11,48676
 2008,Hancock County ,9.8,51823
 2007,Hancock County ,8.9,49715
 2006,Hancock County ,10.7,46813
@@ -611,25 +577,23 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Hancock County ,7.9,46074
 2003,Hancock County ,7.5,44957
 2002,Hancock County ,7.4,44571
-2019,Hardin County ,13.9,51155
 2018,Hardin County ,14.7,49580
 2017,Hardin County ,15.8,47185
 2016,Hardin County ,13.3,46969
 2015,Hardin County ,16.5,44101
-2014,Hardin County ,19.0,45195
+2014,Hardin County ,19,45195
 2013,Hardin County ,15.7,42474
 2012,Hardin County ,16.3,42023
 2011,Hardin County ,19.8,37914
 2010,Hardin County ,17.2,40710
 2009,Hardin County ,16.2,39596
 2008,Hardin County ,14.7,42670
-2007,Hardin County ,15.0,41546
+2007,Hardin County ,15,41546
 2006,Hardin County ,14.9,39238
 2005,Hardin County ,15.4,36910
 2004,Hardin County ,11.6,36238
 2003,Hardin County ,10.6,35897
 2002,Hardin County ,10.7,34892
-2019,Harrison County ,14.5,50137
 2018,Harrison County ,15.3,50301
 2017,Harrison County ,12.8,48160
 2016,Harrison County ,16.8,44274
@@ -641,13 +605,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Harrison County ,17.8,36074
 2009,Harrison County ,17.7,34917
 2008,Harrison County ,17.7,35655
-2007,Harrison County ,17.0,36275
+2007,Harrison County ,17,36275
 2006,Harrison County ,15.3,33349
-2005,Harrison County ,15.0,33334
-2004,Harrison County ,13.0,32670
+2005,Harrison County ,15,33334
+2004,Harrison County ,13,32670
 2003,Harrison County ,12.1,31490
-2002,Harrison County ,12.0,30803
-2019,Henry County ,7.5,61351
+2002,Harrison County ,12,30803
 2018,Henry County ,10.8,57705
 2017,Henry County ,8.2,57678
 2016,Henry County ,8.3,57752
@@ -665,7 +628,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Henry County ,7.3,45573
 2003,Henry County ,6.9,44296
 2002,Henry County ,6.7,42961
-2019,Highland County ,15.6,47126
 2018,Highland County ,15.4,49161
 2017,Highland County ,16.8,43840
 2016,Highland County ,19.8,44729
@@ -683,7 +645,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Highland County ,12.2,37597
 2003,Highland County ,11.4,36532
 2002,Highland County ,11.5,35142
-2019,Hocking County ,15.0,51016
 2018,Hocking County ,14.1,50568
 2017,Hocking County ,14.5,48397
 2016,Hocking County ,14.5,47799
@@ -695,15 +656,14 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Hocking County ,16.2,40017
 2009,Hocking County ,16.8,37841
 2008,Hocking County ,15.6,40564
-2007,Hocking County ,16.0,39219
+2007,Hocking County ,16,39219
 2006,Hocking County ,15.1,39076
 2005,Hocking County ,15.5,38246
 2004,Hocking County ,13.3,36440
 2003,Hocking County ,12.2,35449
 2002,Hocking County ,11.8,34420
-2019,Holmes County,9.2,62596
 2018,Holmes County,9.4,60828
-2017,Holmes County,9.0,61593
+2017,Holmes County,9,61593
 2016,Holmes County,11.7,58783
 2015,Holmes County,10.8,53540
 2014,Holmes County,12.4,50069
@@ -711,7 +671,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2012,Holmes County,13.5,43624
 2011,Holmes County,15.3,45893
 2010,Holmes County,16.5,39917
-2009,Holmes County,15.0,42757
+2009,Holmes County,15,42757
 2008,Holmes County,10.8,43956
 2007,Holmes County,10.7,43597
 2006,Holmes County,11.5,42639
@@ -719,7 +679,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Holmes County,9.7,39740
 2003,Holmes County,9.8,38713
 2002,Holmes County,10.5,37744
-2019,Huron County,10.0,56704
 2018,Huron County,11.1,55202
 2017,Huron County,14.8,48244
 2016,Huron County,12.2,51278
@@ -728,21 +687,20 @@ Year,State and County,Poverty Percentage,Median Household Income
 2013,Huron County,14.6,44825
 2012,Huron County,13.2,46303
 2011,Huron County,14.6,48196
-2010,Huron County,14.0,44632
+2010,Huron County,14,44632
 2009,Huron County,12.4,46542
 2008,Huron County,13.7,46586
 2007,Huron County,11.1,46846
 2006,Huron County,11.1,45155
 2005,Huron County,10.9,42861
 2004,Huron County,9.5,42230
-2003,Huron County,9.0,41234
+2003,Huron County,9,41234
 2002,Huron County,8.5,40678
-2019,Jackson County ,17.2,50671
 2018,Jackson County ,16.8,44726
 2017,Jackson County ,17.9,44671
 2016,Jackson County ,18.1,45168
 2015,Jackson County ,20.4,42828
-2014,Jackson County ,20.0,41161
+2014,Jackson County ,20,41161
 2013,Jackson County ,21.4,37823
 2012,Jackson County ,21.7,37020
 2011,Jackson County ,20.4,39144
@@ -755,12 +713,11 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Jackson County ,15.5,33312
 2003,Jackson County ,14.3,32024
 2002,Jackson County ,14.5,31337
-2019,Jefferson County,17.1,47652
-2018,Jefferson County,19.0,42821
+2018,Jefferson County,19,42821
 2017,Jefferson County,17.6,43520
 2016,Jefferson County,16.3,43558
 2015,Jefferson County,17.8,43306
-2014,Jefferson County,20.0,40148
+2014,Jefferson County,20,40148
 2013,Jefferson County,18.4,38074
 2012,Jefferson County,16.8,40114
 2011,Jefferson County,16.8,41103
@@ -772,8 +729,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2005,Jefferson County,16.3,34387
 2004,Jefferson County,14.7,33691
 2003,Jefferson County,13.6,32493
-2002,Jefferson County,13.0,31531
-2019,Knox County,11.3,59957
+2002,Jefferson County,13,31531
 2018,Knox County,13.8,56885
 2017,Knox County,10.7,52061
 2016,Knox County,12.7,53375
@@ -789,9 +745,8 @@ Year,State and County,Poverty Percentage,Median Household Income
 2006,Knox County,12.1,42752
 2005,Knox County,11.6,43707
 2004,Knox County,10.6,42157
-2003,Knox County,10.0,40829
+2003,Knox County,10,40829
 2002,Knox County,9.8,39327
-2019,Lake County,8.3,65040
 2018,Lake County,7.5,65883
 2017,Lake County,8.7,60521
 2016,Lake County,8.6,61946
@@ -809,14 +764,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Lake County,6.6,50227
 2003,Lake County,6.3,48452
 2002,Lake County,6.4,47964
-2019,Lawrence County ,16.2,46433
 2018,Lawrence County ,18.8,43031
 2017,Lawrence County ,19.5,43108
 2016,Lawrence County ,17.9,42132
-2015,Lawrence County ,21.0,39698
+2015,Lawrence County ,21,39698
 2014,Lawrence County ,17.5,41608
 2013,Lawrence County ,20.6,41137
-2012,Lawrence County ,18.0,38790
+2012,Lawrence County ,18,38790
 2011,Lawrence County ,18.9,37666
 2010,Lawrence County ,21.4,36551
 2009,Lawrence County ,19.6,36701
@@ -827,43 +781,40 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Lawrence County ,17.4,31131
 2003,Lawrence County ,16.6,30158
 2002,Lawrence County ,17.1,28806
-2019,Licking County ,9.3,66321
 2018,Licking County ,9.1,66145
 2017,Licking County ,8.9,62658
 2016,Licking County ,11.7,58902
 2015,Licking County ,12.6,59119
 2014,Licking County ,13.5,57308
 2013,Licking County ,11.2,54909
-2012,Licking County ,14.0,52678
-2011,Licking County ,13.0,54298
+2012,Licking County ,14,52678
+2011,Licking County ,13,54298
 2010,Licking County ,12.4,51247
 2009,Licking County ,11.7,51060
 2008,Licking County ,10.2,52148
-2007,Licking County ,11.0,53357
+2007,Licking County ,11,53357
 2006,Licking County ,9.7,50426
 2005,Licking County ,10.2,49532
 2004,Licking County ,9.5,47950
 2003,Licking County ,8.4,46494
-2002,Licking County ,8.0,45498
-2019,Logan County,10.5,60624
+2002,Licking County ,8,45498
 2018,Logan County,11.4,61699
 2017,Logan County,11.1,54782
 2016,Logan County,12.2,53760
 2015,Logan County,10.9,49690
-2014,Logan County,17.0,50753
+2014,Logan County,17,50753
 2013,Logan County,13.2,50077
 2012,Logan County,14.9,45397
 2011,Logan County,13.6,48011
 2010,Logan County,16.9,44436
-2009,Logan County,14.0,45756
+2009,Logan County,14,45756
 2008,Logan County,10.8,49622
 2007,Logan County,12.1,48482
 2006,Logan County,11.8,44951
 2005,Logan County,11.4,45309
-2004,Logan County,10.0,43620
+2004,Logan County,10,43620
 2003,Logan County,9.2,43487
 2002,Logan County,9.1,41826
-2019,Lorain County ,13.9,59201
 2018,Lorain County ,14.2,59265
 2017,Lorain County ,13.5,55443
 2016,Lorain County ,12.4,54951
@@ -881,7 +832,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Lorain County ,10.9,46286
 2003,Lorain County ,9.8,45051
 2002,Lorain County ,9.3,43818
-2019,Lucas County,18.0,49924
 2018,Lucas County,18.7,47865
 2017,Lucas County,17.9,47562
 2016,Lucas County,19.8,45251
@@ -899,7 +849,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Lucas County,14.7,40277
 2003,Lucas County,12.9,40172
 2002,Lucas County,12.2,39499
-2019,Madison County ,9.6,65696
 2018,Madison County ,10.7,61645
 2017,Madison County ,9.6,69937
 2016,Madison County ,11.8,60039
@@ -908,23 +857,22 @@ Year,State and County,Poverty Percentage,Median Household Income
 2013,Madison County ,12.2,54039
 2012,Madison County ,12.5,53445
 2011,Madison County ,11.8,54107
-2010,Madison County ,15.0,48295
+2010,Madison County ,15,48295
 2009,Madison County ,14.2,50465
-2008,Madison County ,11.0,52035
+2008,Madison County ,11,52035
 2007,Madison County ,10.1,52349
 2006,Madison County ,11.2,48497
 2005,Madison County ,9.7,49932
 2004,Madison County ,9.6,46252
 2003,Madison County ,8.3,44626
-2002,Madison County ,9.0,44199
-2019,Mahoning County,18.4,48018
+2002,Madison County ,9,44199
 2018,Mahoning County,16.5,48010
 2017,Mahoning County,18.4,43904
 2016,Mahoning County,18.7,42839
 2015,Mahoning County,16.8,42443
 2014,Mahoning County,18.9,41316
-2013,Mahoning County,18.0,41076
-2012,Mahoning County,19.0,39982
+2013,Mahoning County,18,41076
+2012,Mahoning County,19,39982
 2011,Mahoning County,17.7,39447
 2010,Mahoning County,17.1,38205
 2009,Mahoning County,18.3,39339
@@ -935,7 +883,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Mahoning County,14.3,36784
 2003,Mahoning County,12.9,36413
 2002,Mahoning County,12.7,35516
-2019,Marion County,14.8,51479
 2018,Marion County,16.5,45419
 2017,Marion County,16.5,46450
 2016,Marion County,14.8,44783
@@ -948,17 +895,16 @@ Year,State and County,Poverty Percentage,Median Household Income
 2009,Marion County,17.3,41000
 2008,Marion County,16.9,38104
 2007,Marion County,14.6,42447
-2006,Marion County,13.0,40684
+2006,Marion County,13,40684
 2005,Marion County,14.7,39428
-2004,Marion County,12.0,40033
-2003,Marion County,11.0,39378
-2002,Marion County,11.0,38060
-2019,Medina County ,5.5,78540
+2004,Marion County,12,40033
+2003,Marion County,11,39378
+2002,Marion County,11,38060
 2018,Medina County ,6.5,76475
-2017,Medina County ,6.0,72926
+2017,Medina County ,6,72926
 2016,Medina County ,6.5,73148
-2015,Medina County ,7.0,70576
-2014,Medina County ,7.0,68405
+2015,Medina County ,7,70576
+2014,Medina County ,7,68405
 2013,Medina County ,6.6,66720
 2012,Medina County ,7.6,65670
 2011,Medina County ,8.9,60527
@@ -971,7 +917,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Medina County ,5.9,59457
 2003,Medina County ,5.4,57539
 2002,Medina County ,4.9,56736
-2019,Meigs County,15.8,43754
 2018,Meigs County,17.8,44286
 2017,Meigs County,19.9,42200
 2016,Meigs County,21.1,39070
@@ -981,7 +926,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2012,Meigs County,22.5,34978
 2011,Meigs County,22.4,33520
 2010,Meigs County,23.5,33194
-2009,Meigs County,20.0,34359
+2009,Meigs County,20,34359
 2008,Meigs County,20.1,33683
 2007,Meigs County,19.8,33356
 2006,Meigs County,21.4,30979
@@ -989,7 +934,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Meigs County,18.1,28859
 2003,Meigs County,16.8,27849
 2002,Meigs County,16.5,28015
-2019,Mercer County ,6.7,67075
 2018,Mercer County ,7.6,62782
 2017,Mercer County ,6.9,60055
 2016,Mercer County ,8.2,57577
@@ -1007,9 +951,8 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Mercer County ,6.4,46210
 2003,Mercer County ,6.7,44830
 2002,Mercer County ,6.7,42974
-2019,Miami County,8.8,63524
 2018,Miami County,7.9,59922
-2017,Miami County,9.0,60800
+2017,Miami County,9,60800
 2016,Miami County,9.5,59591
 2015,Miami County,10.7,51685
 2014,Miami County,10.6,51868
@@ -1019,13 +962,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Miami County,11.9,49195
 2009,Miami County,11.6,49514
 2008,Miami County,7.9,52735
-2007,Miami County,9.0,50392
+2007,Miami County,9,50392
 2006,Miami County,8.4,48975
 2005,Miami County,8.2,46591
 2004,Miami County,8.2,45869
 2003,Miami County,8.1,44811
 2002,Miami County,7.5,44215
-2019,Monroe County,14.0,48231
 2018,Monroe County,14.1,46314
 2017,Monroe County,15.2,44868
 2016,Monroe County,15.2,44062
@@ -1036,14 +978,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2011,Monroe County,16.8,39007
 2010,Monroe County,17.4,38015
 2009,Monroe County,16.6,36729
-2008,Monroe County,15.0,40089
+2008,Monroe County,15,40089
 2007,Monroe County,15.9,35762
 2006,Monroe County,15.1,32450
 2005,Monroe County,18.3,30238
 2004,Monroe County,12.4,34169
 2003,Monroe County,11.7,33436
 2002,Monroe County,13.2,31834
-2019,Montgomery County,15.3,54704
 2018,Montgomery County,16.9,51071
 2017,Montgomery County,15.9,48039
 2016,Montgomery County,18.2,47239
@@ -1052,20 +993,19 @@ Year,State and County,Poverty Percentage,Median Household Income
 2013,Montgomery County,18.8,43103
 2012,Montgomery County,18.6,42859
 2011,Montgomery County,18.3,41001
-2010,Montgomery County,18.0,40885
+2010,Montgomery County,18,40885
 2009,Montgomery County,16.2,41611
-2008,Montgomery County,15.0,45237
+2008,Montgomery County,15,45237
 2007,Montgomery County,14.8,44131
-2006,Montgomery County,15.0,41450
+2006,Montgomery County,15,41450
 2005,Montgomery County,14.7,41249
 2004,Montgomery County,12.5,41846
 2003,Montgomery County,11.2,41283
 2002,Montgomery County,10.7,40560
-2019,Morgan County,15.7,46883
-2018,Morgan County,17.0,40557
+2018,Morgan County,17,40557
 2017,Morgan County,20.5,41375
 2016,Morgan County,18.7,40680
-2015,Morgan County,19.0,39969
+2015,Morgan County,19,39969
 2014,Morgan County,18.1,37923
 2013,Morgan County,22.8,36057
 2012,Morgan County,18.6,35748
@@ -1075,11 +1015,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2008,Morgan County,21.1,33695
 2007,Morgan County,20.2,33087
 2006,Morgan County,18.4,31676
-2005,Morgan County,18.0,32337
+2005,Morgan County,18,32337
 2004,Morgan County,14.8,32012
 2003,Morgan County,14.2,31671
 2002,Morgan County,14.3,30584
-2019,Morrow County ,8.5,59498
 2018,Morrow County ,11.9,60452
 2017,Morrow County ,11.2,55466
 2016,Morrow County ,12.2,52953
@@ -1097,14 +1036,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Morrow County ,9.8,44405
 2003,Morrow County ,9.1,42842
 2002,Morrow County ,9.6,41251
-2019,Muskingum County,15.3,52105
 2018,Muskingum County,16.6,49586
 2017,Muskingum County,14.8,44884
 2016,Muskingum County,14.8,44871
 2015,Muskingum County,16.5,43324
 2014,Muskingum County,19.1,41814
 2013,Muskingum County,20.6,40399
-2012,Muskingum County,20.0,39814
+2012,Muskingum County,20,39814
 2011,Muskingum County,18.9,38652
 2010,Muskingum County,17.8,40485
 2009,Muskingum County,16.8,37748
@@ -1115,11 +1053,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Muskingum County,14.2,37192
 2003,Muskingum County,13.1,36120
 2002,Muskingum County,12.6,35655
-2019,Noble County ,14.2,50788
 2018,Noble County ,18.1,48792
 2017,Noble County ,16.2,44835
 2016,Noble County ,15.1,48836
-2015,Noble County ,15.0,47714
+2015,Noble County ,15,47714
 2014,Noble County ,16.3,43953
 2013,Noble County ,17.3,42425
 2012,Noble County ,17.5,40405
@@ -1132,8 +1069,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2005,Noble County ,14.5,34483
 2004,Noble County ,13.2,33860
 2003,Noble County ,12.1,32836
-2002,Noble County ,14.0,32193
-2019,Ottawa County,8.1,63352
+2002,Noble County ,14,32193
 2018,Ottawa County,9.5,58345
 2017,Ottawa County,8.9,55968
 2016,Ottawa County,10.4,56569
@@ -1144,35 +1080,33 @@ Year,State and County,Poverty Percentage,Median Household Income
 2011,Ottawa County,10.9,51641
 2010,Ottawa County,10.2,50707
 2009,Ottawa County,10.7,50104
-2008,Ottawa County,9.0,52281
+2008,Ottawa County,9,52281
 2007,Ottawa County,8.5,51067
 2006,Ottawa County,7.9,53107
 2005,Ottawa County,7.3,50105
 2004,Ottawa County,7.5,46849
 2003,Ottawa County,6.9,45638
 2002,Ottawa County,6.6,44268
-2019,Paulding County,9.8,58100
 2018,Paulding County,10.3,53876
 2017,Paulding County,10.2,52534
 2016,Paulding County,10.7,51020
 2015,Paulding County,10.9,49796
 2014,Paulding County,12.3,47358
 2013,Paulding County,12.3,46921
-2012,Paulding County,12.0,44453
+2012,Paulding County,12,44453
 2011,Paulding County,13.8,41946
 2010,Paulding County,13.5,43791
 2009,Paulding County,10.9,46383
-2008,Paulding County,11.0,46974
+2008,Paulding County,11,46974
 2007,Paulding County,9.4,45541
 2006,Paulding County,8.9,44318
 2005,Paulding County,9.1,42412
 2004,Paulding County,8.7,41891
 2003,Paulding County,8.3,40382
 2002,Paulding County,7.9,40133
-2019,Perry County,15.0,51875
 2018,Perry County,16.4,51534
 2017,Perry County,15.7,51702
-2016,Perry County,17.0,47543
+2016,Perry County,17,47543
 2015,Perry County,18.8,44738
 2014,Perry County,17.8,43341
 2013,Perry County,17.8,41586
@@ -1187,9 +1121,8 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Perry County,13.2,36754
 2003,Perry County,12.2,35162
 2002,Perry County,12.8,34340
-2019,Pickaway County,11.5,63931
 2018,Pickaway County,12.1,58742
-2017,Pickaway County,12.0,62445
+2017,Pickaway County,12,62445
 2016,Pickaway County,13.2,60051
 2015,Pickaway County,12.4,58472
 2014,Pickaway County,13.2,54868
@@ -1204,10 +1137,9 @@ Year,State and County,Poverty Percentage,Median Household Income
 2005,Pickaway County,11.3,47559
 2004,Pickaway County,11.1,44595
 2003,Pickaway County,10.3,42686
-2002,Pickaway County,10.0,42283
-2019,Pike County,19.1,46255
+2002,Pickaway County,10,42283
 2018,Pike County,20.5,45163
-2017,Pike County,20.0,43499
+2017,Pike County,20,43499
 2016,Pike County,20.5,42869
 2015,Pike County,21.4,39851
 2014,Pike County,21.9,40512
@@ -1223,7 +1155,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Pike County,17.2,33302
 2003,Pike County,15.7,32951
 2002,Pike County,16.3,31871
-2019,Portage County,11.9,57439
 2018,Portage County,11.3,63689
 2017,Portage County,11.8,59490
 2016,Portage County,13.5,52947
@@ -1241,12 +1172,11 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Portage County,9.7,45795
 2003,Portage County,8.7,44615
 2002,Portage County,8.6,43765
-2019,Preble County,8.9,62128
 2018,Preble County,9.7,53904
 2017,Preble County,9.9,52300
-2016,Preble County,11.0,57896
+2016,Preble County,11,57896
 2015,Preble County,12.7,51042
-2014,Preble County,13.0,49516
+2014,Preble County,13,49516
 2013,Preble County,13.1,47251
 2012,Preble County,12.3,46298
 2011,Preble County,11.6,45920
@@ -1259,7 +1189,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Preble County,8.1,43281
 2003,Preble County,7.5,41895
 2002,Preble County,7.8,41636
-2019,Putnam County,7.2,73454
 2018,Putnam County,5.5,64304
 2017,Putnam County,6.4,62944
 2016,Putnam County,8.3,61069
@@ -1268,16 +1197,15 @@ Year,State and County,Poverty Percentage,Median Household Income
 2013,Putnam County,7.2,60562
 2012,Putnam County,8.2,57079
 2011,Putnam County,6.4,57039
-2010,Putnam County,9.0,53920
+2010,Putnam County,9,53920
 2009,Putnam County,7.5,54761
 2008,Putnam County,7.6,56708
 2007,Putnam County,6.4,56101
 2006,Putnam County,6.9,51078
-2005,Putnam County,6.0,50262
+2005,Putnam County,6,50262
 2004,Putnam County,6.5,48926
 2003,Putnam County,5.9,48174
 2002,Putnam County,5.4,46977
-2019,Richland County ,13.5,51883
 2018,Richland County ,14.4,49668
 2017,Richland County ,13.4,47141
 2016,Richland County ,15.8,44835
@@ -1292,10 +1220,9 @@ Year,State and County,Poverty Percentage,Median Household Income
 2007,Richland County ,11.9,43320
 2006,Richland County ,13.3,39620
 2005,Richland County ,12.1,39841
-2004,Richland County ,12.0,39328
+2004,Richland County ,12,39328
 2003,Richland County ,11.1,38595
 2002,Richland County ,10.8,37597
-2019,Ross County ,15.2,54728
 2018,Ross County ,18.4,49385
 2017,Ross County ,16.3,50387
 2016,Ross County ,18.6,47507
@@ -1312,9 +1239,8 @@ Year,State and County,Poverty Percentage,Median Household Income
 2005,Ross County ,14.5,38285
 2004,Ross County ,13.1,38939
 2003,Ross County ,12.1,38067
-2002,Ross County ,13.0,37165
-2019,Sandusky County ,9.6,58415
-2018,Sandusky County ,10.0,53978
+2002,Ross County ,13,37165
+2018,Sandusky County ,10,53978
 2017,Sandusky County ,11.1,53058
 2016,Sandusky County ,11.6,52452
 2015,Sandusky County ,12.2,49994
@@ -1324,18 +1250,17 @@ Year,State and County,Poverty Percentage,Median Household Income
 2011,Sandusky County ,14.2,44016
 2010,Sandusky County ,12.3,44346
 2009,Sandusky County ,12.2,45402
-2008,Sandusky County ,10.0,47020
+2008,Sandusky County ,10,47020
 2007,Sandusky County ,9.7,45888
 2006,Sandusky County ,10.1,45235
 2005,Sandusky County ,8.9,44646
 2004,Sandusky County ,8.9,42793
 2003,Sandusky County ,8.2,41619
 2002,Sandusky County ,7.9,40639
-2019,Scioto County,21.9,45410
 2018,Scioto County,22.6,41267
 2017,Scioto County,21.4,41843
 2016,Scioto County,22.1,39245
-2015,Scioto County,23.0,37277
+2015,Scioto County,23,37277
 2014,Scioto County,27.2,37625
 2013,Scioto County,24.5,36682
 2012,Scioto County,24.4,36379
@@ -1349,7 +1274,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Scioto County,18.9,30557
 2003,Scioto County,17.4,29216
 2002,Scioto County,18.4,28325
-2019,Seneca County ,12.1,55664
 2018,Seneca County ,12.1,52165
 2017,Seneca County ,13.6,47805
 2016,Seneca County ,12.9,49546
@@ -1361,19 +1285,18 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Seneca County ,14.6,42642
 2009,Seneca County ,12.5,39481
 2008,Seneca County ,11.1,44529
-2007,Seneca County ,12.0,43712
+2007,Seneca County ,12,43712
 2006,Seneca County ,10.8,41808
 2005,Seneca County ,10.8,41361
 2004,Seneca County ,9.8,39620
 2003,Seneca County ,9.1,38736
 2002,Seneca County ,8.8,37544
-2019,Shelby County ,9.1,64304
-2018,Shelby County ,9.0,63398
+2018,Shelby County ,9,63398
 2017,Shelby County ,8.1,60148
 2016,Shelby County ,9.4,59604
 2015,Shelby County ,8.9,59149
 2014,Shelby County ,10.7,50774
-2013,Shelby County ,10.0,51529
+2013,Shelby County ,10,51529
 2012,Shelby County ,10.2,53390
 2011,Shelby County ,11.5,53028
 2010,Shelby County ,12.2,46062
@@ -1384,8 +1307,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2005,Shelby County ,9.2,47596
 2004,Shelby County ,7.8,46686
 2003,Shelby County ,7.3,45580
-2002,Shelby County ,7.0,44304
-2019,Stark County,13.0,55623
+2002,Shelby County ,7,44304
 2018,Stark County,14.4,52310
 2017,Stark County,14.3,51214
 2016,Stark County,13.2,51036
@@ -1399,12 +1321,11 @@ Year,State and County,Poverty Percentage,Median Household Income
 2008,Stark County,12.4,44682
 2007,Stark County,10.9,44950
 2006,Stark County,12.3,42548
-2005,Stark County,12.0,42343
+2005,Stark County,12,42343
 2004,Stark County,10.7,41180
 2003,Stark County,9.8,40347
 2002,Stark County,9.4,40383
-2019,Summit County ,14.2,57753
-2018,Summit County ,12.0,58890
+2018,Summit County ,12,58890
 2017,Summit County ,12.9,55531
 2016,Summit County ,13.7,52226
 2015,Summit County ,14.4,51434
@@ -1415,13 +1336,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Summit County ,15.4,45768
 2009,Summit County ,14.8,47042
 2008,Summit County ,12.5,49528
-2007,Summit County ,14.0,47575
+2007,Summit County ,14,47575
 2006,Summit County ,12.6,45022
 2005,Summit County ,11.6,44248
 2004,Summit County ,12.3,44030
 2003,Summit County ,11.1,42843
 2002,Summit County ,10.2,41856
-2019,Trumbull County,15.4,47966
 2018,Trumbull County,17.6,47424
 2017,Trumbull County,15.4,46340
 2016,Trumbull County,17.6,45929
@@ -1431,19 +1351,18 @@ Year,State and County,Poverty Percentage,Median Household Income
 2012,Trumbull County,17.7,41253
 2011,Trumbull County,16.5,40913
 2010,Trumbull County,18.2,40389
-2009,Trumbull County,16.0,40980
+2009,Trumbull County,16,40980
 2008,Trumbull County,15.5,41419
 2007,Trumbull County,14.6,41829
 2006,Trumbull County,11.9,42240
 2005,Trumbull County,11.5,40916
 2004,Trumbull County,12.1,39176
-2003,Trumbull County,11.0,38206
+2003,Trumbull County,11,38206
 2002,Trumbull County,10.6,37827
-2019,Tuscarawas County,11.2,54150
 2018,Tuscarawas County,12.3,51030
 2017,Tuscarawas County,12.8,51408
 2016,Tuscarawas County,12.7,50273
-2015,Tuscarawas County,13.0,47588
+2015,Tuscarawas County,13,47588
 2014,Tuscarawas County,13.4,46128
 2013,Tuscarawas County,14.3,44121
 2012,Tuscarawas County,13.5,43546
@@ -1451,50 +1370,47 @@ Year,State and County,Poverty Percentage,Median Household Income
 2010,Tuscarawas County,14.7,39580
 2009,Tuscarawas County,14.1,40933
 2008,Tuscarawas County,11.4,42959
-2007,Tuscarawas County,12.0,41138
+2007,Tuscarawas County,12,41138
 2006,Tuscarawas County,12.3,38371
 2005,Tuscarawas County,9.6,39260
 2004,Tuscarawas County,10.1,37802
 2003,Tuscarawas County,9.6,36803
 2002,Tuscarawas County,9.4,36149
-2019,Union County,5.4,91597
-2018,Union County,5.0,84861
+2018,Union County,5,84861
 2017,Union County,5.2,86609
 2016,Union County,6.1,78796
 2015,Union County,7.6,76116
 2014,Union County,7.7,69900
 2013,Union County,7.8,68650
-2012,Union County,8.0,63378
+2012,Union County,8,63378
 2011,Union County,7.5,64403
 2010,Union County,8.2,63233
-2009,Union County,8.0,63122
+2009,Union County,8,63122
 2008,Union County,7.1,64179
 2007,Union County,5.1,64094
 2006,Union County,6.2,63175
 2005,Union County,6.2,64095
 2004,Union County,6.7,56521
-2003,Union County,6.0,54470
+2003,Union County,6,54470
 2002,Union County,5.9,53243
-2019,Van Wert County,8.5,55361
 2018,Van Wert County,8.4,54331
 2017,Van Wert County,11.4,49120
 2016,Van Wert County,8.9,52610
 2015,Van Wert County,11.2,51264
 2014,Van Wert County,10.1,49565
 2013,Van Wert County,13.3,47169
-2012,Van Wert County,11.0,45024
+2012,Van Wert County,11,45024
 2011,Van Wert County,10.5,46717
 2010,Van Wert County,12.5,44338
 2009,Van Wert County,8.6,42595
 2008,Van Wert County,8.1,46734
-2007,Van Wert County,7.0,42208
+2007,Van Wert County,7,42208
 2006,Van Wert County,8.2,42038
 2005,Van Wert County,7.2,44270
-2004,Van Wert County,7.0,42351
+2004,Van Wert County,7,42351
 2003,Van Wert County,6.5,40239
 2002,Van Wert County,6.5,39368
-2019,Vinton County,18.7,46301
-2018,Vinton County,19.0,43457
+2018,Vinton County,19,43457
 2017,Vinton County,19.8,40927
 2016,Vinton County,20.8,41522
 2015,Vinton County,18.9,41675
@@ -1504,14 +1420,13 @@ Year,State and County,Poverty Percentage,Median Household Income
 2011,Vinton County,23.5,35298
 2010,Vinton County,21.8,34977
 2009,Vinton County,19.8,34275
-2008,Vinton County,23.0,34306
+2008,Vinton County,23,34306
 2007,Vinton County,18.9,37627
-2006,Vinton County,19.0,34565
+2006,Vinton County,19,34565
 2005,Vinton County,20.6,32977
 2004,Vinton County,16.8,32086
-2003,Vinton County,15.0,31044
+2003,Vinton County,15,31044
 2002,Vinton County,15.8,30337
-2019,Warren County,4.5,91645
 2018,Warren County,5.2,87391
 2017,Warren County,4.7,85532
 2016,Warren County,5.4,81543
@@ -1525,15 +1440,14 @@ Year,State and County,Poverty Percentage,Median Household Income
 2008,Warren County,6.6,71139
 2007,Warren County,5.1,71178
 2006,Warren County,5.3,67167
-2005,Warren County,5.0,63870
+2005,Warren County,5,63870
 2004,Warren County,5.3,63899
 2003,Warren County,5.1,61931
 2002,Warren County,4.8,60083
-2019,Washington County,11.0,52565
 2018,Washington County,15.9,50904
 2017,Washington County,14.6,46417
 2016,Washington County,13.7,47802
-2015,Washington County,15.0,44697
+2015,Washington County,15,44697
 2014,Washington County,15.7,45048
 2013,Washington County,16.3,41236
 2012,Washington County,16.2,41747
@@ -1547,7 +1461,6 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Washington County,12.2,36297
 2003,Washington County,11.2,35251
 2002,Washington County,11.1,35191
-2019,Wayne County,9.9,58747
 2018,Wayne County,9.4,59142
 2017,Wayne County,12.9,56172
 2016,Wayne County,11.9,53605
@@ -1565,11 +1478,10 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Wayne County,9.1,43120
 2003,Wayne County,8.6,42079
 2002,Wayne County,8.4,41510
-2019,Williams County,9.3,54239
 2018,Williams County,9.7,54581
 2017,Williams County,10.7,50347
 2016,Williams County,9.7,50770
-2015,Williams County,12.0,49031
+2015,Williams County,12,49031
 2014,Williams County,14.2,42214
 2013,Williams County,12.1,45510
 2012,Williams County,13.9,42418
@@ -1583,13 +1495,12 @@ Year,State and County,Poverty Percentage,Median Household Income
 2004,Williams County,8.3,41939
 2003,Williams County,7.6,40623
 2002,Williams County,7.5,40217
-2019,Wood County,11.2,64723
 2018,Wood County,11.9,64282
 2017,Wood County,10.8,61774
 2016,Wood County,11.4,60347
 2015,Wood County,11.7,57390
 2014,Wood County,13.5,54996
-2013,Wood County,13.0,52578
+2013,Wood County,13,52578
 2012,Wood County,13.7,50534
 2011,Wood County,13.9,50624
 2010,Wood County,12.8,49344
@@ -1598,15 +1509,14 @@ Year,State and County,Poverty Percentage,Median Household Income
 2007,Wood County,10.8,50857
 2006,Wood County,10.8,51042
 2005,Wood County,11.5,47419
-2004,Wood County,8.0,46191
+2004,Wood County,8,46191
 2003,Wood County,7.8,45741
 2002,Wood County,7.2,45176
-2019,Wyandot County,7.5,61733
-2018,Wyandot County,8.0,55995
+2018,Wyandot County,8,55995
 2017,Wyandot County,8.8,47527
 2016,Wyandot County,8.6,55590
 2015,Wyandot County,8.8,51109
-2014,Wyandot County,10.0,47905
+2014,Wyandot County,10,47905
 2013,Wyandot County,11.2,46568
 2012,Wyandot County,10.1,46327
 2011,Wyandot County,9.5,45555
@@ -1614,7 +1524,7 @@ Year,State and County,Poverty Percentage,Median Household Income
 2009,Wyandot County,9.9,39792
 2008,Wyandot County,8.4,47168
 2007,Wyandot County,7.4,46926
-2006,Wyandot County,8.0,44482
+2006,Wyandot County,8,44482
 2005,Wyandot County,6.8,43113
 2004,Wyandot County,6.6,42428
 2003,Wyandot County,6.3,40819
